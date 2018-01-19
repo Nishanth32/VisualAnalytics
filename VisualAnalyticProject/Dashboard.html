@@ -1,0 +1,180 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Visual Analytics</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <!--Right Navigation Style-->
+    <style>
+        #rightNav a {
+            position: fixed;
+            right: -110px;
+            transition: 0.3s;
+            padding: 15px;
+            width: 150px;
+            text-decoration: none;
+            font-size: 20px;
+            color: white;
+            border-radius: 0 5px 5px 0;
+        }
+
+            #rightNav a:hover {
+                right: 0;
+            }
+
+        #about {
+            top: 60px;
+            background-color: #4CAF50;
+        }
+
+        #blog {
+            top: 120px;
+            background-color: #2196F3;
+        }
+
+        #projects {
+            top: 180px;
+            background-color: #f44336;
+        }
+
+        #contact {
+            top: 240px;
+            background-color: #555;
+        }
+
+         #fullScreen {
+            bottom: 10px;
+            background-color: #555;
+        }
+    </style>
+
+    <!--Left Navigation Style-->
+    <style>
+        #leftNav {
+            height: 100%;
+            width: 0;
+            position: fixed;
+            z-index: 99;
+            top: 0;
+            left: 0;
+            background-color: #111;
+            overflow-x: hidden;
+            padding-top: 60px;
+            transition: 0.5s;
+        }
+
+            #leftNav a {
+                padding: 8px 8px 8px 32px;
+                text-decoration: none;
+                font-size: 25px;
+                color: #818181;
+                display: block;
+                transition: 0.3s;
+            }
+
+                #leftNav a:hover, .offcanvas a:focus {
+                    color: #f1f1f1;
+                }
+
+        .closebtn {
+            position: absolute;
+            top: 0;
+            right: 25px;
+            font-size: 36px;
+            margin-left: 50px;
+        }
+    </style>
+
+    <style>
+        #menuIcon :hover {
+            -webkit-transform: rotate(270deg);
+            background-color: black;
+            transform: rotate(270deg);
+        }
+
+    </style>
+
+</head>
+<body>
+
+    <!--Left Side Navigation Bar-->
+    <div id="leftNav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="#">Charts</a>
+        <a href="#">Reports</a>
+        <a href="#">Timeline</a>
+        <a href="#" onclick="setAbout()">About</a>
+    </div>
+
+    <!--Right Side Navigation-->
+    <div id="rightNav" class="sidenav">
+        <a href="Charts/Area/PlasticArea.html" id="about"><i class="fa fa-area-chart" aria-hidden="true"> Area Chart</i></a>
+        <a href="Charts/Graphs/VA/display.html" id="blog"><i class="fa fa-bar-chart" aria-hidden="true"> Bar Chart</i></a>
+        <a href="Charts/PlasticBubbleChart.html" id="projects"><i class="fa fa-pie-chart" aria-hidden="true"> Bubble</i></a>
+        <a href="Charts/Graphs/datamaps-eleuthera.html" id="contact"><i class="fa fa-line-chart" aria-hidden="true"></i> Beach</a>
+
+        <a href="#" onclick="openNav1()" id="fullScreen"><i class="fa fa-arrows-alt" aria-hidden="true"></i> FullScreen</a>
+    </div>
+
+    <!-- Navigation bar container-->
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <!-- Main container bootstrap container -->
+        <div class="container-fluid">
+            <!-- Menu container -->
+            <div id="menuIcon">
+                <i class="fa fa-bars fa-2x navbar-left" aria-hidden="true" onclick="openNav()" style="color:white;margin:10px"></i>
+            </div>
+            <!-- Navigation container -->
+            <div class="navbar-header">
+                <a class="navbar-brand" onclick="openNav()" href="#">Plastic Debris</a>
+            </div>
+            <!-- Container Navigation Links -->
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="Dashboard.html">Home</a></li>
+                <li><a href="#" onclick="setAPI()">API</a></li>
+                <li><a href="#" onclick="setAbout()">About</a></li>
+            </ul>
+            <ul class="nav navbar-right">
+                <li><a href="#" onclick="openNav1()">Hide</a></li>
+            </ul>
+
+        </div>
+    </nav>
+
+    <div>
+        <!-- Define an IFrame to Display the contact dashboard HTML -->
+        <iframe id="mainFrame" src="Charts/ContactDashBoard.html" style="width:100%;height:750px" frameborder="0"></iframe>
+    </div>
+    <!-- Map Animation script  -->
+    <script>
+        // Open Navigation
+        function openNav() {
+            $("#leftNav").width("250px");
+            $("nav").hide();
+        }
+        //CLose Navigation
+        function closeNav() {
+            $("#leftNav").width("0px"); $("nav").show();
+        }
+
+        function openNav1() {           
+            $("nav").toggle("slow");
+        }
+
+        function setAbout()
+        {
+            $("#mainFrame").attr("src", "About.html");
+        }
+
+        function setAPI() {
+            $("#mainFrame").attr("src", "APIPage.html");
+        }
+    </script>
+
+</body>
+</html>

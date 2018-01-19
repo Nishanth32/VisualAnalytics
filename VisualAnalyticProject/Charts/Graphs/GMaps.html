@@ -1,0 +1,35 @@
+﻿
+<!DOCTYPE html>
+<meta charset="utf-8">
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+<style>
+    html, body, #map {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    .stations, .stations svg {
+        position: absolute;
+    }
+
+        .stations svg {
+            width: 60px;
+            height: 60px;
+            padding-right: 100px;
+            font: 10px sans-serif bold;
+        }
+
+        .stations circle {
+            fill: blueviolet;
+            stroke: white;
+            stroke-width: 1px;
+        }
+</style>
+<!-- Main Body Div Element to draw the Map -->
+<div id="map"></div>
+<!-- Reference the Javascript for backend integration -->
+<script src="//maps.google.com/maps/api/js?key=AIzaSyC_ULEX_kpVGe4dfx47gvD9Kr2ziTk84kc"></script>
+<script src="//d3js.org/d3.v3.min.js"></script>
+<script src="mapscript.js"></script>

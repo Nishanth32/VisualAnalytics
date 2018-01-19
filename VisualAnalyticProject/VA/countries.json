@@ -1,0 +1,5821 @@
+[{
+	"region": 1,
+	"subregion": "KKR",
+	"value": 222,
+	"key": "KKR vs RCB"
+}, {
+	"region": 1,
+	"subregion": "RCB",
+	"value": 82,
+	"key": "RCB vs KKR"
+}, {
+	"region": 1,
+	"subregion": "CSK",
+	"value": 240,
+	"key": "CSK vs KXIP"
+}, {
+	"region": 1,
+	"subregion": "KXIP",
+	"value": 207,
+	"key": "KXIP vs CSK"
+}, {
+	"region": 1,
+	"subregion": "RR",
+	"value": 125,
+	"key": "RR vs DD"
+}, {
+	"region": 1,
+	"subregion": "DD",
+	"value": 132,
+	"key": "DD vs RR"
+}, {
+	"region": 1,
+	"subregion": "MI",
+	"value": 165,
+	"key": "MI vs RCB"
+}, {
+	"region": 1,
+	"subregion": "RCB",
+	"value": 166,
+	"key": "RCB vs MI"
+}, {
+	"region": 1,
+	"subregion": "DC",
+	"value": 110,
+	"key": "DC vs KKR"
+}, {
+	"region": 1,
+	"subregion": "KKR",
+	"value": 112,
+	"key": "KKR vs DC"
+}, {
+	"region": 1,
+	"subregion": "KXIP",
+	"value": 166,
+	"key": "KXIP vs RR"
+}, {
+	"region": 1,
+	"subregion": "RR",
+	"value": 168,
+	"key": "RR vs KXIP"
+}, {
+	"region": 1,
+	"subregion": "DC",
+	"value": 142,
+	"key": "DC vs DD"
+}, {
+	"region": 1,
+	"subregion": "DD",
+	"value": 143,
+	"key": "DD vs DC"
+}, {
+	"region": 1,
+	"subregion": "CSK",
+	"value": 208,
+	"key": "CSK vs MI"
+}, {
+	"region": 1,
+	"subregion": "MI",
+	"value": 202,
+	"key": "MI vs CSK"
+}, {
+	"region": 1,
+	"subregion": "DC",
+	"value": 214,
+	"key": "DC vs RR"
+}, {
+	"region": 1,
+	"subregion": "RR",
+	"value": 217,
+	"key": "RR vs DC"
+}, {
+	"region": 1,
+	"subregion": "KXIP",
+	"value": 182,
+	"key": "KXIP vs MI"
+}, {
+	"region": 1,
+	"subregion": "MI",
+	"value": 116,
+	"key": "MI vs KXIP"
+}, {
+	"region": 1,
+	"subregion": "RCB",
+	"value": 135,
+	"key": "RCB vs RR"
+}, {
+	"region": 1,
+	"subregion": "RR",
+	"value": 138,
+	"key": "RR vs RCB"
+}, {
+	"region": 1,
+	"subregion": "KKR",
+	"value": 147,
+	"key": "KKR vs CSK"
+}, {
+	"region": 1,
+	"subregion": "CSK",
+	"value": 152,
+	"key": "CSK vs KKR"
+}, {
+	"region": 1,
+	"subregion": "MI",
+	"value": 154,
+	"key": "MI vs DC"
+}, {
+	"region": 1,
+	"subregion": "DC",
+	"value": 155,
+	"key": "DC vs MI"
+}, {
+	"region": 1,
+	"subregion": "DD",
+	"value": 158,
+	"key": "DD vs KXIP"
+}, {
+	"region": 1,
+	"subregion": "KXIP",
+	"value": 162,
+	"key": "KXIP vs DD"
+}, {
+	"region": 1,
+	"subregion": "CSK",
+	"value": 178,
+	"key": "CSK vs RCB"
+}, {
+	"region": 1,
+	"subregion": "RCB",
+	"value": 165,
+	"key": "RCB vs CSK"
+}, {
+	"region": 1,
+	"subregion": "KKR",
+	"value": 137,
+	"key": "KKR vs MI"
+}, {
+	"region": 1,
+	"subregion": "MI",
+	"value": 138,
+	"key": "MI vs KKR"
+}, {
+	"region": 1,
+	"subregion": "DD",
+	"value": 191,
+	"key": "DD vs RCB"
+}, {
+	"region": 1,
+	"subregion": "RCB",
+	"value": 181,
+	"key": "RCB vs DD"
+}, {
+	"region": 1,
+	"subregion": "DC",
+	"value": 164,
+	"key": "DC vs KXIP"
+}, {
+	"region": 1,
+	"subregion": "KXIP",
+	"value": 167,
+	"key": "KXIP vs DC"
+}, {
+	"region": 1,
+	"subregion": "RR",
+	"value": 196,
+	"key": "RR vs KKR"
+}, {
+	"region": 1,
+	"subregion": "KKR",
+	"value": 151,
+	"key": "KKR vs RR"
+}, {
+	"region": 1,
+	"subregion": "CSK",
+	"value": 169,
+	"key": "CSK vs DD"
+}, {
+	"region": 1,
+	"subregion": "DD",
+	"value": 172,
+	"key": "DD vs CSK"
+}, {
+	"region": 1,
+	"subregion": "DC",
+	"value": 165,
+	"key": "DC vs RCB"
+}, {
+	"region": 1,
+	"subregion": "RCB",
+	"value": 171,
+	"key": "RCB vs DC"
+}, {
+	"region": 1,
+	"subregion": "KXIP",
+	"value": 178,
+	"key": "KXIP vs KKR"
+}, {
+	"region": 1,
+	"subregion": "KKR",
+	"value": 169,
+	"key": "KKR vs KXIP"
+}, {
+	"region": 1,
+	"subregion": "MI",
+	"value": 162,
+	"key": "MI vs DD"
+}, {
+	"region": 1,
+	"subregion": "DD",
+	"value": 133,
+	"key": "DD vs MI"
+}, {
+	"region": 1,
+	"subregion": "CSK",
+	"value": 109,
+	"key": "CSK vs RR"
+}, {
+	"region": 1,
+	"subregion": "RR",
+	"value": 106,
+	"key": "RR vs CSK"
+}, {
+	"region": 1,
+	"subregion": "RCB",
+	"value": 126,
+	"key": "RCB vs KXIP"
+}, {
+	"region": 1,
+	"subregion": "KXIP",
+	"value": 127,
+	"key": "KXIP vs RCB"
+}, {
+	"region": 1,
+	"subregion": "CSK",
+	"value": 144,
+	"key": "CSK vs DC"
+}, {
+	"region": 1,
+	"subregion": "DC",
+	"value": 148,
+	"key": "DC vs CSK"
+}, {
+	"region": 1,
+	"subregion": "RR",
+	"value": 103,
+	"key": "RR vs MI"
+}, {
+	"region": 1,
+	"subregion": "MI",
+	"value": 104,
+	"key": "MI vs RR"
+}, {
+	"region": 1,
+	"subregion": "DD",
+	"value": 187,
+	"key": "DD vs CSK"
+}, {
+	"region": 1,
+	"subregion": "CSK",
+	"value": 188,
+	"key": "CSK vs DD"
+}, {
+	"region": 1,
+	"subregion": "KKR",
+	"value": 129,
+	"key": "KKR vs RCB"
+}, {
+	"region": 1,
+	"subregion": "RCB",
+	"value": 124,
+	"key": "RCB vs KKR"
+}, {
+	"region": 1,
+	"subregion": "DC",
+	"value": 140,
+	"key": "DC vs RR"
+}, {
+	"region": 1,
+	"subregion": "RR",
+	"value": 141,
+	"key": "RR vs DC"
+}, {
+	"region": 1,
+	"subregion": "RCB",
+	"value": 122,
+	"key": "RCB vs MI"
+}, {
+	"region": 1,
+	"subregion": "MI",
+	"value": 126,
+	"key": "MI vs RCB"
+}, {
+	"region": 1,
+	"subregion": "CSK",
+	"value": 181,
+	"key": "CSK vs KXIP"
+}, {
+	"region": 1,
+	"subregion": "KXIP",
+	"value": 163,
+	"key": "KXIP vs CSK"
+}, {
+	"region": 1,
+	"subregion": "KKR",
+	"value": 198,
+	"key": "KKR vs DC"
+}, {
+	"region": 1,
+	"subregion": "DC",
+	"value": 181,
+	"key": "DC vs KKR"
+}, {
+	"region": 1,
+	"subregion": "DD",
+	"value": 156,
+	"key": "DD vs RR"
+}, {
+	"region": 1,
+	"subregion": "RR",
+	"value": 159,
+	"key": "RR vs DD"
+}, {
+	"region": 1,
+	"subregion": "RCB",
+	"value": 143,
+	"key": "RCB vs KXIP"
+}, {
+	"region": 1,
+	"subregion": "KXIP",
+	"value": 144,
+	"key": "KXIP vs RCB"
+}, {
+	"region": 1,
+	"subregion": "KKR",
+	"value": 133,
+	"key": "KKR vs DD"
+}, {
+	"region": 1,
+	"subregion": "DD",
+	"value": 110,
+	"key": "DD vs KKR"
+}, {
+	"region": 1,
+	"subregion": "CSK",
+	"value": 156,
+	"key": "CSK vs MI"
+}, {
+	"region": 1,
+	"subregion": "MI",
+	"value": 158,
+	"key": "MI vs CSK"
+}, {
+	"region": 1,
+	"subregion": "KXIP",
+	"value": 221,
+	"key": "KXIP vs RR"
+}, {
+	"region": 1,
+	"subregion": "RR",
+	"value": 180,
+	"key": "RR vs KXIP"
+}, {
+	"region": 1,
+	"subregion": "DD",
+	"value": 194,
+	"key": "DD vs DC"
+}, {
+	"region": 1,
+	"subregion": "DC",
+	"value": 182,
+	"key": "DC vs DD"
+}, {
+	"region": 1,
+	"subregion": "KKR",
+	"value": 67,
+	"key": "KKR vs MI"
+}, {
+	"region": 1,
+	"subregion": "MI",
+	"value": 68,
+	"key": "MI vs KKR"
+}, {
+	"region": 1,
+	"subregion": "DD",
+	"value": 118,
+	"key": "DD vs KXIP"
+}, {
+	"region": 1,
+	"subregion": "KXIP",
+	"value": 94,
+	"key": "KXIP vs DD"
+}, {
+	"region": 1,
+	"subregion": "RR",
+	"value": 197,
+	"key": "RR vs RCB"
+}, {
+	"region": 1,
+	"subregion": "RCB",
+	"value": 132,
+	"key": "RCB vs RR"
+}, {
+	"region": 1,
+	"subregion": "MI",
+	"value": 177,
+	"key": "MI vs DC"
+}, {
+	"region": 1,
+	"subregion": "DC",
+	"value": 153,
+	"key": "DC vs MI"
+}, {
+	"region": 1,
+	"subregion": "KKR",
+	"value": 149,
+	"key": "KKR vs CSK"
+}, {
+	"region": 1,
+	"subregion": "CSK",
+	"value": 55,
+	"key": "CSK vs KKR"
+}, {
+	"region": 1,
+	"subregion": "RCB",
+	"value": 154,
+	"key": "RCB vs DD"
+}, {
+	"region": 1,
+	"subregion": "DD",
+	"value": 158,
+	"key": "DD vs RCB"
+}, {
+	"region": 1,
+	"subregion": "KKR",
+	"value": 147,
+	"key": "KKR vs RR"
+}, {
+	"region": 1,
+	"subregion": "RR",
+	"value": 150,
+	"key": "RR vs KKR"
+}, {
+	"region": 1,
+	"subregion": "KXIP",
+	"value": 189,
+	"key": "KXIP vs MI"
+}, {
+	"region": 1,
+	"subregion": "MI",
+	"value": 188,
+	"key": "MI vs KXIP"
+}, {
+	"region": 1,
+	"subregion": "RCB",
+	"value": 126,
+	"key": "RCB vs CSK"
+}, {
+	"region": 1,
+	"subregion": "CSK",
+	"value": 112,
+	"key": "CSK vs RCB"
+}, {
+	"region": 1,
+	"subregion": "DC",
+	"value": 175,
+	"key": "DC vs KXIP"
+}, {
+	"region": 1,
+	"subregion": "KXIP",
+	"value": 178,
+	"key": "KXIP vs DC"
+}, {
+	"region": 1,
+	"subregion": "MI",
+	"value": 176,
+	"key": "MI vs DD"
+}, {
+	"region": 1,
+	"subregion": "DD",
+	"value": 179,
+	"key": "DD vs MI"
+}, {
+	"region": 1,
+	"subregion": "RR",
+	"value": 211,
+	"key": "RR vs CSK"
+}, {
+	"region": 1,
+	"subregion": "CSK",
+	"value": 201,
+	"key": "CSK vs RR"
+}, {
+	"region": 1,
+	"subregion": "RCB",
+	"value": 156,
+	"key": "RCB vs DC"
+}, {
+	"region": 1,
+	"subregion": "DC",
+	"value": 153,
+	"key": "DC vs RCB"
+}, {
+	"region": 1,
+	"subregion": "KXIP",
+	"value": 174,
+	"key": "KXIP vs KKR"
+}, {
+	"region": 1,
+	"subregion": "KKR",
+	"value": 175,
+	"key": "KKR vs KXIP"
+}, {
+	"region": 1,
+	"subregion": "MI",
+	"value": 145,
+	"key": "MI vs RR"
+}, {
+	"region": 1,
+	"subregion": "RR",
+	"value": 146,
+	"key": "RR vs MI"
+}, {
+	"region": 1,
+	"subregion": "DC",
+	"value": 147,
+	"key": "DC vs CSK"
+}, {
+	"region": 1,
+	"subregion": "CSK",
+	"value": 148,
+	"key": "CSK vs DC"
+}, {
+	"region": 1,
+	"subregion": "RR",
+	"value": 192,
+	"key": "RR vs DD"
+}, {
+	"region": 1,
+	"subregion": "DD",
+	"value": 87,
+	"key": "DD vs RR"
+}, {
+	"region": 1,
+	"subregion": "KXIP",
+	"value": 112,
+	"key": "KXIP vs CSK"
+}, {
+	"region": 1,
+	"subregion": "CSK",
+	"value": 116,
+	"key": "CSK vs KXIP"
+}, {
+	"region": 1,
+	"subregion": "CSK",
+	"value": 163,
+	"key": "CSK vs RR"
+}, {
+	"region": 1,
+	"subregion": "RR",
+	"value": 164,
+	"key": "RR vs CSK"
+}, {
+	"region": 2,
+	"subregion": "MI",
+	"value": 165,
+	"key": "MI vs CSK"
+}, {
+	"region": 2,
+	"subregion": "CSK",
+	"value": 146,
+	"key": "CSK vs MI"
+}, {
+	"region": 2,
+	"subregion": "RCB",
+	"value": 133,
+	"key": "RCB vs RR"
+}, {
+	"region": 2,
+	"subregion": "RR",
+	"value": 58,
+	"key": "RR vs RCB"
+}, {
+	"region": 2,
+	"subregion": "KXIP",
+	"value": 104,
+	"key": "KXIP vs DD"
+}, {
+	"region": 2,
+	"subregion": "DD",
+	"value": 58,
+	"key": "DD vs KXIP"
+}, {
+	"region": 2,
+	"subregion": "KKR",
+	"value": 101,
+	"key": "KKR vs DC"
+}, {
+	"region": 2,
+	"subregion": "DC",
+	"value": 104,
+	"key": "DC vs KKR"
+}, {
+	"region": 2,
+	"subregion": "CSK",
+	"value": 179,
+	"key": "CSK vs RCB"
+}, {
+	"region": 2,
+	"subregion": "RCB",
+	"value": 87,
+	"key": "RCB vs CSK"
+}, {
+	"region": 2,
+	"subregion": "KXIP",
+	"value": 158,
+	"key": "KXIP vs KKR"
+}, {
+	"region": 2,
+	"subregion": "KKR",
+	"value": 79,
+	"key": "KKR vs KXIP"
+}, {
+	"region": 2,
+	"subregion": "DC",
+	"value": 184,
+	"key": "DC vs RCB"
+}, {
+	"region": 2,
+	"subregion": "RCB",
+	"value": 160,
+	"key": "RCB vs DC"
+}, {
+	"region": 2,
+	"subregion": "DD",
+	"value": 189,
+	"key": "DD vs CSK"
+}, {
+	"region": 2,
+	"subregion": "CSK",
+	"value": 180,
+	"key": "CSK vs DD"
+}, {
+	"region": 2,
+	"subregion": "RR",
+	"value": 150,
+	"key": "RR vs KKR"
+}, {
+	"region": 2,
+	"subregion": "KKR",
+	"value": 150,
+	"key": "KKR vs RR"
+}, {
+	"region": 2,
+	"subregion": "KKR",
+	"value": 15,
+	"key": "KKR vs RR"
+}, {
+	"region": 2,
+	"subregion": "RR",
+	"value": 18,
+	"key": "RR vs KKR"
+}, {
+	"region": 2,
+	"subregion": "RCB",
+	"value": 168,
+	"key": "RCB vs KXIP"
+}, {
+	"region": 2,
+	"subregion": "KXIP",
+	"value": 173,
+	"key": "KXIP vs RCB"
+}, {
+	"region": 2,
+	"subregion": "DC",
+	"value": 168,
+	"key": "DC vs MI"
+}, {
+	"region": 2,
+	"subregion": "MI",
+	"value": 156,
+	"key": "MI vs DC"
+}, {
+	"region": 2,
+	"subregion": "RCB",
+	"value": 149,
+	"key": "RCB vs DD"
+}, {
+	"region": 2,
+	"subregion": "DD",
+	"value": 150,
+	"key": "DD vs RCB"
+}, {
+	"region": 2,
+	"subregion": "KXIP",
+	"value": 139,
+	"key": "KXIP vs RR"
+}, {
+	"region": 2,
+	"subregion": "RR",
+	"value": 112,
+	"key": "RR vs KXIP"
+}, {
+	"region": 2,
+	"subregion": "CSK",
+	"value": 165,
+	"key": "CSK vs DC"
+}, {
+	"region": 2,
+	"subregion": "DC",
+	"value": 169,
+	"key": "DC vs CSK"
+}, {
+	"region": 2,
+	"subregion": "MI",
+	"value": 187,
+	"key": "MI vs KKR"
+}, {
+	"region": 2,
+	"subregion": "MI",
+	"value": 95,
+	"key": "MI vs KKR"
+}, {
+	"region": 2,
+	"subregion": "DD",
+	"value": 143,
+	"key": "DD vs RR"
+}, {
+	"region": 2,
+	"subregion": "RR",
+	"value": 147,
+	"key": "RR vs DD"
+}, {
+	"region": 2,
+	"subregion": "KKR",
+	"value": 139,
+	"key": "KKR vs RCB"
+}, {
+	"region": 2,
+	"subregion": "RCB",
+	"value": 143,
+	"key": "RCB vs KKR"
+}, {
+	"region": 2,
+	"subregion": "KXIP",
+	"value": 119,
+	"key": "KXIP vs MI"
+}, {
+	"region": 2,
+	"subregion": "MI",
+	"value": 116,
+	"key": "MI vs KXIP"
+}, {
+	"region": 2,
+	"subregion": "DC",
+	"value": 148,
+	"key": "DC vs DD"
+}, {
+	"region": 2,
+	"subregion": "DD",
+	"value": 150,
+	"key": "DD vs DC"
+}, {
+	"region": 2,
+	"subregion": "CSK",
+	"value": 164,
+	"key": "CSK vs RR"
+}, {
+	"region": 2,
+	"subregion": "CSK",
+	"value": 126,
+	"key": "CSK vs RR"
+}, {
+	"region": 2,
+	"subregion": "MI",
+	"value": 148,
+	"key": "MI vs KKR"
+}, {
+	"region": 2,
+	"subregion": "KKR",
+	"value": 139,
+	"key": "KKR vs MI"
+}, {
+	"region": 2,
+	"subregion": "RCB",
+	"value": 145,
+	"key": "RCB vs KXIP"
+}, {
+	"region": 2,
+	"subregion": "KXIP",
+	"value": 137,
+	"key": "KXIP vs RCB"
+}, {
+	"region": 2,
+	"subregion": "DC",
+	"value": 141,
+	"key": "DC vs RR"
+}, {
+	"region": 2,
+	"subregion": "RR",
+	"value": 142,
+	"key": "RR vs DC"
+}, {
+	"region": 2,
+	"subregion": "CSK",
+	"value": 163,
+	"key": "CSK vs DD"
+}, {
+	"region": 2,
+	"subregion": "DD",
+	"value": 145,
+	"key": "DD vs CSK"
+}, {
+	"region": 2,
+	"subregion": "KKR",
+	"value": 153,
+	"key": "KKR vs KXIP"
+}, {
+	"region": 2,
+	"subregion": "KXIP",
+	"value": 154,
+	"key": "KXIP vs KKR"
+}, {
+	"region": 2,
+	"subregion": "MI",
+	"value": 149,
+	"key": "MI vs RCB"
+}, {
+	"region": 2,
+	"subregion": "RCB",
+	"value": 150,
+	"key": "RCB vs MI"
+}, {
+	"region": 2,
+	"subregion": "CSK",
+	"value": 178,
+	"key": "CSK vs DC"
+}, {
+	"region": 2,
+	"subregion": "DC",
+	"value": 100,
+	"key": "DC vs CSK"
+}, {
+	"region": 2,
+	"subregion": "RR",
+	"value": 211,
+	"key": "RR vs KXIP"
+}, {
+	"region": 2,
+	"subregion": "KXIP",
+	"value": 133,
+	"key": "KXIP vs RR"
+}, {
+	"region": 2,
+	"subregion": "KKR",
+	"value": 154,
+	"key": "KKR vs DD"
+}, {
+	"region": 2,
+	"subregion": "DD",
+	"value": 157,
+	"key": "DD vs KKR"
+}, {
+	"region": 2,
+	"subregion": "DC",
+	"value": 145,
+	"key": "DC vs MI"
+}, {
+	"region": 2,
+	"subregion": "MI",
+	"value": 126,
+	"key": "MI vs DC"
+}, {
+	"region": 2,
+	"subregion": "RCB",
+	"value": 105,
+	"key": "RCB vs RR"
+}, {
+	"region": 2,
+	"subregion": "RR",
+	"value": 107,
+	"key": "RR vs RCB"
+}, {
+	"region": 2,
+	"subregion": "CSK",
+	"value": 185,
+	"key": "CSK vs KXIP"
+}, {
+	"region": 2,
+	"subregion": "KXIP",
+	"value": 174,
+	"key": "KXIP vs CSK"
+}, {
+	"region": 2,
+	"subregion": "MI",
+	"value": 116,
+	"key": "MI vs DD"
+}, {
+	"region": 2,
+	"subregion": "DD",
+	"value": 118,
+	"key": "DD vs MI"
+}, {
+	"region": 2,
+	"subregion": "DC",
+	"value": 168,
+	"key": "DC vs KXIP"
+}, {
+	"region": 2,
+	"subregion": "KXIP",
+	"value": 169,
+	"key": "KXIP vs DC"
+}, {
+	"region": 2,
+	"subregion": "RR",
+	"value": 140,
+	"key": "RR vs CSK"
+}, {
+	"region": 2,
+	"subregion": "CSK",
+	"value": 141,
+	"key": "CSK vs RR"
+}, {
+	"region": 2,
+	"subregion": "MI",
+	"value": 157,
+	"key": "MI vs RCB"
+}, {
+	"region": 2,
+	"subregion": "RCB",
+	"value": 141,
+	"key": "RCB vs MI"
+}, {
+	"region": 2,
+	"subregion": "KKR",
+	"value": 123,
+	"key": "KKR vs DD"
+}, {
+	"region": 2,
+	"subregion": "DD",
+	"value": 125,
+	"key": "DD vs KKR"
+}, {
+	"region": 2,
+	"subregion": "DC",
+	"value": 166,
+	"key": "DC vs RR"
+}, {
+	"region": 2,
+	"subregion": "RR",
+	"value": 113,
+	"key": "RR vs DC"
+}, {
+	"region": 2,
+	"subregion": "KKR",
+	"value": 173,
+	"key": "KKR vs RCB"
+}, {
+	"region": 2,
+	"subregion": "RCB",
+	"value": 176,
+	"key": "RCB vs KKR"
+}, {
+	"region": 2,
+	"subregion": "KXIP",
+	"value": 119,
+	"key": "KXIP vs MI"
+}, {
+	"region": 2,
+	"subregion": "MI",
+	"value": 122,
+	"key": "MI vs KXIP"
+}, {
+	"region": 2,
+	"subregion": "DD",
+	"value": 173,
+	"key": "DD vs DC"
+}, {
+	"region": 2,
+	"subregion": "DC",
+	"value": 161,
+	"key": "DC vs DD"
+}, {
+	"region": 2,
+	"subregion": "CSK",
+	"value": 129,
+	"key": "CSK vs RCB"
+}, {
+	"region": 2,
+	"subregion": "RCB",
+	"value": 132,
+	"key": "RCB vs CSK"
+}, {
+	"region": 2,
+	"subregion": "RR",
+	"value": 145,
+	"key": "RR vs MI"
+}, {
+	"region": 2,
+	"subregion": "MI",
+	"value": 143,
+	"key": "MI vs RR"
+}, {
+	"region": 2,
+	"subregion": "DD",
+	"value": 120,
+	"key": "DD vs KXIP"
+}, {
+	"region": 2,
+	"subregion": "KXIP",
+	"value": 119,
+	"key": "KXIP vs DD"
+}, {
+	"region": 2,
+	"subregion": "MI",
+	"value": 147,
+	"key": "MI vs CSK"
+}, {
+	"region": 2,
+	"subregion": "CSK",
+	"value": 151,
+	"key": "CSK vs MI"
+}, {
+	"region": 2,
+	"subregion": "KKR",
+	"value": 160,
+	"key": "KKR vs DC"
+}, {
+	"region": 2,
+	"subregion": "DC",
+	"value": 166,
+	"key": "DC vs KKR"
+}, {
+	"region": 2,
+	"subregion": "KXIP",
+	"value": 134,
+	"key": "KXIP vs DC"
+}, {
+	"region": 2,
+	"subregion": "DC",
+	"value": 133,
+	"key": "DC vs KXIP"
+}, {
+	"region": 2,
+	"subregion": "DD",
+	"value": 150,
+	"key": "DD vs RR"
+}, {
+	"region": 2,
+	"subregion": "RR",
+	"value": 136,
+	"key": "RR vs DD"
+}, {
+	"region": 2,
+	"subregion": "CSK",
+	"value": 188,
+	"key": "CSK vs KKR"
+}, {
+	"region": 2,
+	"subregion": "KKR",
+	"value": 189,
+	"key": "KKR vs CSK"
+}, {
+	"region": 2,
+	"subregion": "DD",
+	"value": 134,
+	"key": "DD vs RCB"
+}, {
+	"region": 2,
+	"subregion": "RCB",
+	"value": 135,
+	"key": "RCB vs DD"
+}, {
+	"region": 2,
+	"subregion": "RR",
+	"value": 101,
+	"key": "RR vs KKR"
+}, {
+	"region": 2,
+	"subregion": "KKR",
+	"value": 102,
+	"key": "KKR vs RR"
+}, {
+	"region": 2,
+	"subregion": "CSK",
+	"value": 116,
+	"key": "CSK vs KXIP"
+}, {
+	"region": 2,
+	"subregion": "KXIP",
+	"value": 92,
+	"key": "KXIP vs CSK"
+}, {
+	"region": 2,
+	"subregion": "MI",
+	"value": 165,
+	"key": "MI vs DD"
+}, {
+	"region": 2,
+	"subregion": "DD",
+	"value": 166,
+	"key": "DD vs MI"
+}, {
+	"region": 2,
+	"subregion": "RCB",
+	"value": 170,
+	"key": "RCB vs DC"
+}, {
+	"region": 2,
+	"subregion": "DC",
+	"value": 158,
+	"key": "DC vs RCB"
+}, {
+	"region": 2,
+	"subregion": "DD",
+	"value": 153,
+	"key": "DD vs DC"
+}, {
+	"region": 2,
+	"subregion": "DC",
+	"value": 154,
+	"key": "DC vs DD"
+}, {
+	"region": 2,
+	"subregion": "CSK",
+	"value": 146,
+	"key": "CSK vs RCB"
+}, {
+	"region": 2,
+	"subregion": "RCB",
+	"value": 149,
+	"key": "RCB vs CSK"
+}, {
+	"region": 2,
+	"subregion": "DC",
+	"value": 143,
+	"key": "DC vs RCB"
+}, {
+	"region": 2,
+	"subregion": "RCB",
+	"value": 137,
+	"key": "RCB vs DC"
+}, {
+	"region": 3,
+	"subregion": "KKR",
+	"value": 161,
+	"key": "KKR vs DC"
+}, {
+	"region": 3,
+	"subregion": "DC",
+	"value": 150,
+	"key": "DC vs KKR"
+}, {
+	"region": 3,
+	"subregion": "MI",
+	"value": 212,
+	"key": "MI vs RR"
+}, {
+	"region": 3,
+	"subregion": "RR",
+	"value": 208,
+	"key": "RR vs MI"
+}, {
+	"region": 3,
+	"subregion": "KXIP",
+	"value": 142,
+	"key": "KXIP vs DD"
+}, {
+	"region": 3,
+	"subregion": "DD",
+	"value": 146,
+	"key": "DD vs KXIP"
+}, {
+	"region": 3,
+	"subregion": "RCB",
+	"value": 135,
+	"key": "RCB vs KKR"
+}, {
+	"region": 3,
+	"subregion": "KKR",
+	"value": 136,
+	"key": "KKR vs RCB"
+}, {
+	"region": 3,
+	"subregion": "DC",
+	"value": 190,
+	"key": "DC vs CSK"
+}, {
+	"region": 3,
+	"subregion": "CSK",
+	"value": 159,
+	"key": "CSK vs DC"
+}, {
+	"region": 3,
+	"subregion": "RR",
+	"value": 141,
+	"key": "RR vs DD"
+}, {
+	"region": 3,
+	"subregion": "DD",
+	"value": 142,
+	"key": "DD vs RR"
+}, {
+	"region": 3,
+	"subregion": "KXIP",
+	"value": 203,
+	"key": "KXIP vs RCB"
+}, {
+	"region": 3,
+	"subregion": "RCB",
+	"value": 204,
+	"key": "RCB vs KXIP"
+}, {
+	"region": 3,
+	"subregion": "CSK",
+	"value": 164,
+	"key": "CSK vs KKR"
+}, {
+	"region": 3,
+	"subregion": "KKR",
+	"value": 109,
+	"key": "KKR vs CSK"
+}, {
+	"region": 3,
+	"subregion": "MI",
+	"value": 218,
+	"key": "MI vs DD"
+}, {
+	"region": 3,
+	"subregion": "MI",
+	"value": 120,
+	"key": "MI vs DD"
+}, {
+	"region": 3,
+	"subregion": "RR",
+	"value": 92,
+	"key": "RR vs RCB"
+}, {
+	"region": 3,
+	"subregion": "RCB",
+	"value": 93,
+	"key": "RCB vs RR"
+}, {
+	"region": 3,
+	"subregion": "DD",
+	"value": 185,
+	"key": "DD vs CSK"
+}, {
+	"region": 3,
+	"subregion": "CSK",
+	"value": 190,
+	"key": "CSK vs DD"
+}, {
+	"region": 3,
+	"subregion": "DC",
+	"value": 170,
+	"key": "DC vs KXIP"
+}, {
+	"region": 3,
+	"subregion": "KXIP",
+	"value": 164,
+	"key": "KXIP vs DC"
+}, {
+	"region": 3,
+	"subregion": "RR",
+	"value": 168,
+	"key": "RR vs KKR"
+}, {
+	"region": 3,
+	"subregion": "KKR",
+	"value": 134,
+	"key": "KKR vs RR"
+}, {
+	"region": 3,
+	"subregion": "MI",
+	"value": 151,
+	"key": "MI vs RCB"
+}, {
+	"region": 3,
+	"subregion": "RCB",
+	"value": 155,
+	"key": "RCB vs MI"
+}, {
+	"region": 3,
+	"subregion": "DC",
+	"value": 171,
+	"key": "DC vs DD"
+}, {
+	"region": 3,
+	"subregion": "DD",
+	"value": 161,
+	"key": "DD vs DC"
+}, {
+	"region": 3,
+	"subregion": "KXIP",
+	"value": 136,
+	"key": "KXIP vs CSK"
+}, {
+	"region": 3,
+	"subregion": "CSK",
+	"value": 136,
+	"key": "CSK vs KXIP"
+}, {
+	"region": 3,
+	"subregion": "CSK",
+	"value": 9,
+	"key": "CSK vs KXIP"
+}, {
+	"region": 3,
+	"subregion": "KXIP",
+	"value": 10,
+	"key": "KXIP vs CSK"
+}, {
+	"region": 3,
+	"subregion": "KKR",
+	"value": 155,
+	"key": "KKR vs MI"
+}, {
+	"region": 3,
+	"subregion": "MI",
+	"value": 156,
+	"key": "MI vs KKR"
+}, {
+	"region": 3,
+	"subregion": "RCB",
+	"value": 171,
+	"key": "RCB vs CSK"
+}, {
+	"region": 3,
+	"subregion": "CSK",
+	"value": 135,
+	"key": "CSK vs RCB"
+}, {
+	"region": 3,
+	"subregion": "RR",
+	"value": 183,
+	"key": "RR vs KXIP"
+}, {
+	"region": 3,
+	"subregion": "KXIP",
+	"value": 152,
+	"key": "KXIP vs RR"
+}, {
+	"region": 3,
+	"subregion": "CSK",
+	"value": 180,
+	"key": "CSK vs MI"
+}, {
+	"region": 3,
+	"subregion": "MI",
+	"value": 181,
+	"key": "MI vs CSK"
+}, {
+	"region": 3,
+	"subregion": "DC",
+	"value": 148,
+	"key": "DC vs RR"
+}, {
+	"region": 3,
+	"subregion": "RR",
+	"value": 151,
+	"key": "RR vs DC"
+}, {
+	"region": 3,
+	"subregion": "KKR",
+	"value": 183,
+	"key": "KKR vs KXIP"
+}, {
+	"region": 3,
+	"subregion": "KXIP",
+	"value": 144,
+	"key": "KXIP vs KKR"
+}, {
+	"region": 3,
+	"subregion": "DD",
+	"value": 183,
+	"key": "DD vs RCB"
+}, {
+	"region": 3,
+	"subregion": "RCB",
+	"value": 166,
+	"key": "RCB vs DD"
+}, {
+	"region": 3,
+	"subregion": "RR",
+	"value": 177,
+	"key": "RR vs CSK"
+}, {
+	"region": 3,
+	"subregion": "CSK",
+	"value": 160,
+	"key": "CSK vs RR"
+}, {
+	"region": 3,
+	"subregion": "MI",
+	"value": 172,
+	"key": "MI vs DC"
+}, {
+	"region": 3,
+	"subregion": "DC",
+	"value": 131,
+	"key": "DC vs MI"
+}, {
+	"region": 3,
+	"subregion": "DD",
+	"value": 177,
+	"key": "DD vs KKR"
+}, {
+	"region": 3,
+	"subregion": "KKR",
+	"value": 137,
+	"key": "KKR vs DD"
+}, {
+	"region": 3,
+	"subregion": "KXIP",
+	"value": 163,
+	"key": "KXIP vs MI"
+}, {
+	"region": 3,
+	"subregion": "MI",
+	"value": 164,
+	"key": "MI vs KXIP"
+}, {
+	"region": 3,
+	"subregion": "RCB",
+	"value": 161,
+	"key": "RCB vs CSK"
+}, {
+	"region": 3,
+	"subregion": "CSK",
+	"value": 162,
+	"key": "CSK vs RCB"
+}, {
+	"region": 3,
+	"subregion": "DD",
+	"value": 188,
+	"key": "DD vs RR"
+}, {
+	"region": 3,
+	"subregion": "RR",
+	"value": 121,
+	"key": "RR vs DD"
+}, {
+	"region": 3,
+	"subregion": "KKR",
+	"value": 181,
+	"key": "KKR vs DC"
+}, {
+	"region": 3,
+	"subregion": "DC",
+	"value": 157,
+	"key": "DC vs KKR"
+}, {
+	"region": 3,
+	"subregion": "KXIP",
+	"value": 181,
+	"key": "KXIP vs RCB"
+}, {
+	"region": 3,
+	"subregion": "RCB",
+	"value": 184,
+	"key": "RCB vs KXIP"
+}, {
+	"region": 3,
+	"subregion": "CSK",
+	"value": 246,
+	"key": "CSK vs RR"
+}, {
+	"region": 3,
+	"subregion": "RR",
+	"value": 223,
+	"key": "RR vs CSK"
+}, {
+	"region": 3,
+	"subregion": "MI",
+	"value": 178,
+	"key": "MI vs DC"
+}, {
+	"region": 3,
+	"subregion": "DC",
+	"value": 115,
+	"key": "DC vs MI"
+}, {
+	"region": 3,
+	"subregion": "KKR",
+	"value": 200,
+	"key": "KKR vs KXIP"
+}, {
+	"region": 3,
+	"subregion": "KXIP",
+	"value": 204,
+	"key": "KXIP vs KKR"
+}, {
+	"region": 3,
+	"subregion": "DD",
+	"value": 184,
+	"key": "DD vs RCB"
+}, {
+	"region": 3,
+	"subregion": "RCB",
+	"value": 147,
+	"key": "RCB vs DD"
+}, {
+	"region": 3,
+	"subregion": "RR",
+	"value": 159,
+	"key": "RR vs DC"
+}, {
+	"region": 3,
+	"subregion": "DC",
+	"value": 153,
+	"key": "DC vs RR"
+}, {
+	"region": 3,
+	"subregion": "CSK",
+	"value": 165,
+	"key": "CSK vs MI"
+}, {
+	"region": 3,
+	"subregion": "MI",
+	"value": 141,
+	"key": "MI vs CSK"
+}, {
+	"region": 3,
+	"subregion": "KXIP",
+	"value": 153,
+	"key": "KXIP vs RR"
+}, {
+	"region": 3,
+	"subregion": "RR",
+	"value": 157,
+	"key": "RR vs KXIP"
+}, {
+	"region": 3,
+	"subregion": "KKR",
+	"value": 181,
+	"key": "KKR vs DD"
+}, {
+	"region": 3,
+	"subregion": "DD",
+	"value": 167,
+	"key": "DD vs KKR"
+}, {
+	"region": 3,
+	"subregion": "RCB",
+	"value": 184,
+	"key": "RCB vs DC"
+}, {
+	"region": 3,
+	"subregion": "DC",
+	"value": 186,
+	"key": "DC vs RCB"
+}, {
+	"region": 3,
+	"subregion": "MI",
+	"value": 154,
+	"key": "MI vs KXIP"
+}, {
+	"region": 3,
+	"subregion": "KXIP",
+	"value": 158,
+	"key": "KXIP vs MI"
+}, {
+	"region": 3,
+	"subregion": "CSK",
+	"value": 138,
+	"key": "CSK vs DC"
+}, {
+	"region": 3,
+	"subregion": "DC",
+	"value": 139,
+	"key": "DC vs CSK"
+}, {
+	"region": 3,
+	"subregion": "KKR",
+	"value": 160,
+	"key": "KKR vs RCB"
+}, {
+	"region": 3,
+	"subregion": "RCB",
+	"value": 162,
+	"key": "RCB vs KKR"
+}, {
+	"region": 3,
+	"subregion": "DD",
+	"value": 111,
+	"key": "DD vs KXIP"
+}, {
+	"region": 3,
+	"subregion": "KXIP",
+	"value": 112,
+	"key": "KXIP vs DD"
+}, {
+	"region": 3,
+	"subregion": "MI",
+	"value": 174,
+	"key": "MI vs RR"
+}, {
+	"region": 3,
+	"subregion": "RR",
+	"value": 137,
+	"key": "RR vs MI"
+}, {
+	"region": 3,
+	"subregion": "DC",
+	"value": 151,
+	"key": "DC vs RCB"
+}, {
+	"region": 3,
+	"subregion": "RCB",
+	"value": 138,
+	"key": "RCB vs DC"
+}, {
+	"region": 3,
+	"subregion": "MI",
+	"value": 182,
+	"key": "MI vs DD"
+}, {
+	"region": 3,
+	"subregion": "DD",
+	"value": 144,
+	"key": "DD vs MI"
+}, {
+	"region": 3,
+	"subregion": "KKR",
+	"value": 139,
+	"key": "KKR vs CSK"
+}, {
+	"region": 3,
+	"subregion": "CSK",
+	"value": 143,
+	"key": "CSK vs KKR"
+}, {
+	"region": 3,
+	"subregion": "RR",
+	"value": 130,
+	"key": "RR vs RCB"
+}, {
+	"region": 3,
+	"subregion": "RCB",
+	"value": 132,
+	"key": "RCB vs RR"
+}, {
+	"region": 3,
+	"subregion": "CSK",
+	"value": 112,
+	"key": "CSK vs DD"
+}, {
+	"region": 3,
+	"subregion": "DD",
+	"value": 113,
+	"key": "DD vs CSK"
+}, {
+	"region": 3,
+	"subregion": "KXIP",
+	"value": 174,
+	"key": "KXIP vs DC"
+}, {
+	"region": 3,
+	"subregion": "DC",
+	"value": 178,
+	"key": "DC vs KXIP"
+}, {
+	"region": 3,
+	"subregion": "MI",
+	"value": 191,
+	"key": "MI vs RCB"
+}, {
+	"region": 3,
+	"subregion": "RCB",
+	"value": 134,
+	"key": "RCB vs MI"
+}, {
+	"region": 3,
+	"subregion": "RR",
+	"value": 132,
+	"key": "RR vs KKR"
+}, {
+	"region": 3,
+	"subregion": "KKR",
+	"value": 133,
+	"key": "KKR vs RR"
+}, {
+	"region": 3,
+	"subregion": "KXIP",
+	"value": 192,
+	"key": "KXIP vs CSK"
+}, {
+	"region": 3,
+	"subregion": "CSK",
+	"value": 195,
+	"key": "CSK vs KXIP"
+}, {
+	"region": 3,
+	"subregion": "DC",
+	"value": 145,
+	"key": "DC vs DD"
+}, {
+	"region": 3,
+	"subregion": "DD",
+	"value": 134,
+	"key": "DD vs DC"
+}, {
+	"region": 3,
+	"subregion": "MI",
+	"value": 133,
+	"key": "MI vs KKR"
+}, {
+	"region": 3,
+	"subregion": "KKR",
+	"value": 135,
+	"key": "KKR vs MI"
+}, {
+	"region": 3,
+	"subregion": "MI",
+	"value": 184,
+	"key": "MI vs RCB"
+}, {
+	"region": 3,
+	"subregion": "RCB",
+	"value": 149,
+	"key": "RCB vs MI"
+}, {
+	"region": 3,
+	"subregion": "CSK",
+	"value": 142,
+	"key": "CSK vs DC"
+}, {
+	"region": 3,
+	"subregion": "DC",
+	"value": 104,
+	"key": "DC vs CSK"
+}, {
+	"region": 3,
+	"subregion": "DC",
+	"value": 82,
+	"key": "DC vs RCB"
+}, {
+	"region": 3,
+	"subregion": "RCB",
+	"value": 86,
+	"key": "RCB vs DC"
+}, {
+	"region": 3,
+	"subregion": "CSK",
+	"value": 168,
+	"key": "CSK vs MI"
+}, {
+	"region": 3,
+	"subregion": "MI",
+	"value": 146,
+	"key": "MI vs CSK"
+}, {
+	"region": 4,
+	"subregion": "CSK",
+	"value": 153,
+	"key": "CSK vs KKR"
+}, {
+	"region": 4,
+	"subregion": "KKR",
+	"value": 151,
+	"key": "KKR vs CSK"
+}, {
+	"region": 4,
+	"subregion": "DC",
+	"value": 137,
+	"key": "DC vs RR"
+}, {
+	"region": 4,
+	"subregion": "RR",
+	"value": 141,
+	"key": "RR vs DC"
+}, {
+	"region": 4,
+	"subregion": "KTK",
+	"value": 161,
+	"key": "KTK vs RCB"
+}, {
+	"region": 4,
+	"subregion": "RCB",
+	"value": 162,
+	"key": "RCB vs KTK"
+}, {
+	"region": 4,
+	"subregion": "DD",
+	"value": 95,
+	"key": "DD vs MI"
+}, {
+	"region": 4,
+	"subregion": "MI",
+	"value": 99,
+	"key": "MI vs DD"
+}, {
+	"region": 4,
+	"subregion": "KXIP",
+	"value": 112,
+	"key": "KXIP vs PW"
+}, {
+	"region": 4,
+	"subregion": "PW",
+	"value": 113,
+	"key": "PW vs KXIP"
+}, {
+	"region": 4,
+	"subregion": "KKR",
+	"value": 163,
+	"key": "KKR vs DC"
+}, {
+	"region": 4,
+	"subregion": "DC",
+	"value": 154,
+	"key": "DC vs KKR"
+}, {
+	"region": 4,
+	"subregion": "DD",
+	"value": 151,
+	"key": "DD vs RR"
+}, {
+	"region": 4,
+	"subregion": "RR",
+	"value": 152,
+	"key": "RR vs DD"
+}, {
+	"region": 4,
+	"subregion": "RCB",
+	"value": 140,
+	"key": "RCB vs MI"
+}, {
+	"region": 4,
+	"subregion": "MI",
+	"value": 143,
+	"key": "MI vs RCB"
+}, {
+	"region": 4,
+	"subregion": "CSK",
+	"value": 188,
+	"key": "CSK vs KXIP"
+}, {
+	"region": 4,
+	"subregion": "KXIP",
+	"value": 193,
+	"key": "KXIP vs CSK"
+}, {
+	"region": 4,
+	"subregion": "KTK",
+	"value": 148,
+	"key": "KTK vs PW"
+}, {
+	"region": 4,
+	"subregion": "PW",
+	"value": 151,
+	"key": "PW vs KTK"
+}, {
+	"region": 4,
+	"subregion": "DC",
+	"value": 175,
+	"key": "DC vs RCB"
+}, {
+	"region": 4,
+	"subregion": "RCB",
+	"value": 142,
+	"key": "RCB vs DC"
+}, {
+	"region": 4,
+	"subregion": "RR",
+	"value": 159,
+	"key": "RR vs KKR"
+}, {
+	"region": 4,
+	"subregion": "KKR",
+	"value": 160,
+	"key": "KKR vs RR"
+}, {
+	"region": 4,
+	"subregion": "MI",
+	"value": 182,
+	"key": "MI vs KTK"
+}, {
+	"region": 4,
+	"subregion": "KTK",
+	"value": 184,
+	"key": "KTK vs MI"
+}, {
+	"region": 4,
+	"subregion": "CSK",
+	"value": 183,
+	"key": "CSK vs RCB"
+}, {
+	"region": 4,
+	"subregion": "RCB",
+	"value": 162,
+	"key": "RCB vs CSK"
+}, {
+	"region": 4,
+	"subregion": "DC",
+	"value": 165,
+	"key": "DC vs KXIP"
+}, {
+	"region": 4,
+	"subregion": "KXIP",
+	"value": 166,
+	"key": "KXIP vs DC"
+}, {
+	"region": 4,
+	"subregion": "PW",
+	"value": 187,
+	"key": "PW vs DD"
+}, {
+	"region": 4,
+	"subregion": "DD",
+	"value": 190,
+	"key": "DD vs PW"
+}, {
+	"region": 4,
+	"subregion": "RR",
+	"value": 81,
+	"key": "RR vs KKR"
+}, {
+	"region": 4,
+	"subregion": "KKR",
+	"value": 85,
+	"key": "KKR vs RR"
+}, {
+	"region": 4,
+	"subregion": "CSK",
+	"value": 131,
+	"key": "CSK vs KTK"
+}, {
+	"region": 4,
+	"subregion": "KTK",
+	"value": 135,
+	"key": "KTK vs CSK"
+}, {
+	"region": 4,
+	"subregion": "DC",
+	"value": 168,
+	"key": "DC vs DD"
+}, {
+	"region": 4,
+	"subregion": "DD",
+	"value": 152,
+	"key": "DD vs DC"
+}, {
+	"region": 4,
+	"subregion": "PW",
+	"value": 118,
+	"key": "PW vs MI"
+}, {
+	"region": 4,
+	"subregion": "MI",
+	"value": 124,
+	"key": "MI vs PW"
+}, {
+	"region": 4,
+	"subregion": "KTK",
+	"value": 132,
+	"key": "KTK vs KKR"
+}, {
+	"region": 4,
+	"subregion": "KKR",
+	"value": 126,
+	"key": "KKR vs KTK"
+}, {
+	"region": 4,
+	"subregion": "KXIP",
+	"value": 195,
+	"key": "KXIP vs RR"
+}, {
+	"region": 4,
+	"subregion": "RR",
+	"value": 147,
+	"key": "RR vs KXIP"
+}, {
+	"region": 4,
+	"subregion": "MI",
+	"value": 164,
+	"key": "MI vs CSK"
+}, {
+	"region": 4,
+	"subregion": "CSK",
+	"value": 156,
+	"key": "CSK vs MI"
+}, {
+	"region": 4,
+	"subregion": "KKR",
+	"value": 171,
+	"key": "KKR vs RCB"
+}, {
+	"region": 4,
+	"subregion": "RCB",
+	"value": 175,
+	"key": "RCB vs KKR"
+}, {
+	"region": 4,
+	"subregion": "DD",
+	"value": 231,
+	"key": "DD vs KXIP"
+}, {
+	"region": 4,
+	"subregion": "KXIP",
+	"value": 202,
+	"key": "KXIP vs DD"
+}, {
+	"region": 4,
+	"subregion": "MI",
+	"value": 172,
+	"key": "MI vs DC"
+}, {
+	"region": 4,
+	"subregion": "DC",
+	"value": 135,
+	"key": "DC vs MI"
+}, {
+	"region": 4,
+	"subregion": "KTK",
+	"value": 109,
+	"key": "KTK vs RR"
+}, {
+	"region": 4,
+	"subregion": "RR",
+	"value": 107,
+	"key": "RR vs KTK"
+}, {
+	"region": 4,
+	"subregion": "CSK",
+	"value": 142,
+	"key": "CSK vs PW"
+}, {
+	"region": 4,
+	"subregion": "PW",
+	"value": 117,
+	"key": "PW vs CSK"
+}, {
+	"region": 4,
+	"subregion": "DD",
+	"value": 160,
+	"key": "DD vs RCB"
+}, {
+	"region": 4,
+	"subregion": "RCB",
+	"value": 161,
+	"key": "RCB vs DD"
+}, {
+	"region": 4,
+	"subregion": "PW",
+	"value": 141,
+	"key": "PW vs CSK"
+}, {
+	"region": 4,
+	"subregion": "CSK",
+	"value": 145,
+	"key": "CSK vs PW"
+}, {
+	"region": 4,
+	"subregion": "DC",
+	"value": 129,
+	"key": "DC vs KTK"
+}, {
+	"region": 4,
+	"subregion": "KTK",
+	"value": 74,
+	"key": "KTK vs DC"
+}, {
+	"region": 4,
+	"subregion": "KKR",
+	"value": 148,
+	"key": "KKR vs DD"
+}, {
+	"region": 4,
+	"subregion": "DD",
+	"value": 131,
+	"key": "DD vs KKR"
+}, {
+	"region": 4,
+	"subregion": "MI",
+	"value": 94,
+	"key": "MI vs RR"
+}, {
+	"region": 4,
+	"subregion": "RR",
+	"value": 95,
+	"key": "RR vs MI"
+}, {
+	"region": 4,
+	"subregion": "RCB",
+	"value": 181,
+	"key": "RCB vs PW"
+}, {
+	"region": 4,
+	"subregion": "PW",
+	"value": 155,
+	"key": "PW vs RCB"
+}, {
+	"region": 4,
+	"subregion": "DD",
+	"value": 157,
+	"key": "DD vs KTK"
+}, {
+	"region": 4,
+	"subregion": "KTK",
+	"value": 119,
+	"key": "KTK vs DD"
+}, {
+	"region": 4,
+	"subregion": "KXIP",
+	"value": 119,
+	"key": "KXIP vs KKR"
+}, {
+	"region": 4,
+	"subregion": "KKR",
+	"value": 120,
+	"key": "KKR vs KXIP"
+}, {
+	"region": 4,
+	"subregion": "PW",
+	"value": 143,
+	"key": "PW vs RR"
+}, {
+	"region": 4,
+	"subregion": "RR",
+	"value": 144,
+	"key": "RR vs PW"
+}, {
+	"region": 4,
+	"subregion": "CSK",
+	"value": 165,
+	"key": "CSK vs DC"
+}, {
+	"region": 4,
+	"subregion": "DC",
+	"value": 146,
+	"key": "DC vs CSK"
+}, {
+	"region": 4,
+	"subregion": "MI",
+	"value": 159,
+	"key": "MI vs KXIP"
+}, {
+	"region": 4,
+	"subregion": "KXIP",
+	"value": 136,
+	"key": "KXIP vs MI"
+}, {
+	"region": 4,
+	"subregion": "DD",
+	"value": 140,
+	"key": "DD vs KTK"
+}, {
+	"region": 4,
+	"subregion": "KTK",
+	"value": 141,
+	"key": "KTK vs DD"
+}, {
+	"region": 4,
+	"subregion": "KKR",
+	"value": 169,
+	"key": "KKR vs DC"
+}, {
+	"region": 4,
+	"subregion": "DC",
+	"value": 149,
+	"key": "DC vs KKR"
+}, {
+	"region": 4,
+	"subregion": "RR",
+	"value": 147,
+	"key": "RR vs CSK"
+}, {
+	"region": 4,
+	"subregion": "CSK",
+	"value": 149,
+	"key": "CSK vs RR"
+}, {
+	"region": 4,
+	"subregion": "MI",
+	"value": 160,
+	"key": "MI vs PW"
+}, {
+	"region": 4,
+	"subregion": "PW",
+	"value": 139,
+	"key": "PW vs MI"
+}, {
+	"region": 4,
+	"subregion": "KTK",
+	"value": 156,
+	"key": "KTK vs KKR"
+}, {
+	"region": 4,
+	"subregion": "KKR",
+	"value": 139,
+	"key": "KKR vs KTK"
+}, {
+	"region": 4,
+	"subregion": "DC",
+	"value": 175,
+	"key": "DC vs DD"
+}, {
+	"region": 4,
+	"subregion": "DD",
+	"value": 179,
+	"key": "DD vs DC"
+}, {
+	"region": 4,
+	"subregion": "RCB",
+	"value": 205,
+	"key": "RCB vs KXIP"
+}, {
+	"region": 4,
+	"subregion": "KXIP",
+	"value": 120,
+	"key": "KXIP vs RCB"
+}, {
+	"region": 4,
+	"subregion": "CSK",
+	"value": 114,
+	"key": "CSK vs KKR"
+}, {
+	"region": 4,
+	"subregion": "KKR",
+	"value": 61,
+	"key": "KKR vs CSK"
+}, {
+	"region": 4,
+	"subregion": "MI",
+	"value": 178,
+	"key": "MI vs DD"
+}, {
+	"region": 4,
+	"subregion": "DD",
+	"value": 146,
+	"key": "DD vs MI"
+}, {
+	"region": 4,
+	"subregion": "KTK",
+	"value": 125,
+	"key": "KTK vs RCB"
+}, {
+	"region": 4,
+	"subregion": "RCB",
+	"value": 128,
+	"key": "RCB vs KTK"
+}, {
+	"region": 4,
+	"subregion": "KXIP",
+	"value": 119,
+	"key": "KXIP vs PW"
+}, {
+	"region": 4,
+	"subregion": "PW",
+	"value": 120,
+	"key": "PW vs KXIP"
+}, {
+	"region": 4,
+	"subregion": "CSK",
+	"value": 196,
+	"key": "CSK vs RR"
+}, {
+	"region": 4,
+	"subregion": "RR",
+	"value": 133,
+	"key": "RR vs CSK"
+}, {
+	"region": 4,
+	"subregion": "DC",
+	"value": 136,
+	"key": "DC vs PW"
+}, {
+	"region": 4,
+	"subregion": "PW",
+	"value": 137,
+	"key": "PW vs DC"
+}, {
+	"region": 4,
+	"subregion": "KXIP",
+	"value": 163,
+	"key": "KXIP vs MI"
+}, {
+	"region": 4,
+	"subregion": "MI",
+	"value": 87,
+	"key": "MI vs KXIP"
+}, {
+	"region": 4,
+	"subregion": "RR",
+	"value": 146,
+	"key": "RR vs RCB"
+}, {
+	"region": 4,
+	"subregion": "RCB",
+	"value": 147,
+	"key": "RCB vs RR"
+}, {
+	"region": 4,
+	"subregion": "CSK",
+	"value": 176,
+	"key": "CSK vs DD"
+}, {
+	"region": 4,
+	"subregion": "DD",
+	"value": 158,
+	"key": "DD vs CSK"
+}, {
+	"region": 4,
+	"subregion": "KTK",
+	"value": 178,
+	"key": "KTK vs KXIP"
+}, {
+	"region": 4,
+	"subregion": "KXIP",
+	"value": 181,
+	"key": "KXIP vs KTK"
+}, {
+	"region": 4,
+	"subregion": "KKR",
+	"value": 89,
+	"key": "KKR vs RCB"
+}, {
+	"region": 4,
+	"subregion": "RCB",
+	"value": 105,
+	"key": "RCB vs KKR"
+}, {
+	"region": 4,
+	"subregion": "DC",
+	"value": 135,
+	"key": "DC vs MI"
+}, {
+	"region": 4,
+	"subregion": "MI",
+	"value": 125,
+	"key": "MI vs DC"
+}, {
+	"region": 4,
+	"subregion": "KXIP",
+	"value": 166,
+	"key": "KXIP vs DD"
+}, {
+	"region": 4,
+	"subregion": "DD",
+	"value": 141,
+	"key": "DD vs KXIP"
+}, {
+	"region": 4,
+	"subregion": "RR",
+	"value": 97,
+	"key": "RR vs KTK"
+}, {
+	"region": 4,
+	"subregion": "KTK",
+	"value": 98,
+	"key": "KTK vs RR"
+}, {
+	"region": 4,
+	"subregion": "PW",
+	"value": 136,
+	"key": "PW vs DC"
+}, {
+	"region": 4,
+	"subregion": "DC",
+	"value": 138,
+	"key": "DC vs PW"
+}, {
+	"region": 4,
+	"subregion": "KXIP",
+	"value": 232,
+	"key": "KXIP vs RCB"
+}, {
+	"region": 4,
+	"subregion": "RCB",
+	"value": 121,
+	"key": "RCB vs KXIP"
+}, {
+	"region": 4,
+	"subregion": "CSK",
+	"value": 152,
+	"key": "CSK vs KTK"
+}, {
+	"region": 4,
+	"subregion": "KTK",
+	"value": 141,
+	"key": "KTK vs CSK"
+}, {
+	"region": 4,
+	"subregion": "PW",
+	"value": 118,
+	"key": "PW vs KKR"
+}, {
+	"region": 4,
+	"subregion": "KKR",
+	"value": 119,
+	"key": "KKR vs PW"
+}, {
+	"region": 4,
+	"subregion": "MI",
+	"value": 133,
+	"key": "MI vs RR"
+}, {
+	"region": 4,
+	"subregion": "RR",
+	"value": 134,
+	"key": "RR vs MI"
+}, {
+	"region": 4,
+	"subregion": "DC",
+	"value": 198,
+	"key": "DC vs KXIP"
+}, {
+	"region": 4,
+	"subregion": "KXIP",
+	"value": 116,
+	"key": "KXIP vs DC"
+}, {
+	"region": 4,
+	"subregion": "DD",
+	"value": 56,
+	"key": "DD vs PW"
+}, {
+	"region": 4,
+	"subregion": "CSK",
+	"value": 128,
+	"key": "CSK vs RCB"
+}, {
+	"region": 4,
+	"subregion": "RCB",
+	"value": 129,
+	"key": "RCB vs CSK"
+}, {
+	"region": 4,
+	"subregion": "KKR",
+	"value": 175,
+	"key": "KKR vs MI"
+}, {
+	"region": 4,
+	"subregion": "MI",
+	"value": 178,
+	"key": "MI vs KKR"
+}, {
+	"region": 4,
+	"subregion": "RCB",
+	"value": 175,
+	"key": "RCB vs CSK"
+}, {
+	"region": 4,
+	"subregion": "CSK",
+	"value": 177,
+	"key": "CSK vs RCB"
+}, {
+	"region": 4,
+	"subregion": "KKR",
+	"value": 147,
+	"key": "KKR vs MI"
+}, {
+	"region": 4,
+	"subregion": "MI",
+	"value": 148,
+	"key": "MI vs KKR"
+}, {
+	"region": 4,
+	"subregion": "RCB",
+	"value": 185,
+	"key": "RCB vs MI"
+}, {
+	"region": 4,
+	"subregion": "MI",
+	"value": 142,
+	"key": "MI vs RCB"
+}, {
+	"region": 4,
+	"subregion": "CSK",
+	"value": 205,
+	"key": "CSK vs RCB"
+}, {
+	"region": 4,
+	"subregion": "RCB",
+	"value": 147,
+	"key": "RCB vs CSK"
+}, {
+	"region": 5,
+	"subregion": "CSK",
+	"value": 112,
+	"key": "CSK vs MI"
+}, {
+	"region": 5,
+	"subregion": "MI",
+	"value": 115,
+	"key": "MI vs CSK"
+}, {
+	"region": 5,
+	"subregion": "KKR",
+	"value": 97,
+	"key": "KKR vs DD"
+}, {
+	"region": 5,
+	"subregion": "DD",
+	"value": 100,
+	"key": "DD vs KKR"
+}, {
+	"region": 5,
+	"subregion": "PW",
+	"value": 121,
+	"key": "PW vs MI"
+}, {
+	"region": 5,
+	"subregion": "MI",
+	"value": 90,
+	"key": "MI vs PW"
+}, {
+	"region": 5,
+	"subregion": "RR",
+	"value": 172,
+	"key": "RR vs KXIP"
+}, {
+	"region": 5,
+	"subregion": "KXIP",
+	"value": 154,
+	"key": "KXIP vs RR"
+}, {
+	"region": 5,
+	"subregion": "RCB",
+	"value": 151,
+	"key": "RCB vs DD"
+}, {
+	"region": 5,
+	"subregion": "DD",
+	"value": 133,
+	"key": "DD vs RCB"
+}, {
+	"region": 5,
+	"subregion": "CSK",
+	"value": 182,
+	"key": "CSK vs DC"
+}, {
+	"region": 5,
+	"subregion": "DC",
+	"value": 115,
+	"key": "DC vs CSK"
+}, {
+	"region": 5,
+	"subregion": "RR",
+	"value": 161,
+	"key": "RR vs KKR"
+}, {
+	"region": 5,
+	"subregion": "KKR",
+	"value": 135,
+	"key": "KKR vs RR"
+}, {
+	"region": 5,
+	"subregion": "PW",
+	"value": 154,
+	"key": "PW vs KXIP"
+}, {
+	"region": 5,
+	"subregion": "KXIP",
+	"value": 133,
+	"key": "KXIP vs PW"
+}, {
+	"region": 5,
+	"subregion": "DC",
+	"value": 133,
+	"key": "DC vs MI"
+}, {
+	"region": 5,
+	"subregion": "MI",
+	"value": 138,
+	"key": "MI vs DC"
+}, {
+	"region": 5,
+	"subregion": "KKR",
+	"value": 159,
+	"key": "KKR vs RCB"
+}, {
+	"region": 5,
+	"subregion": "RCB",
+	"value": 113,
+	"key": "RCB vs KKR"
+}, {
+	"region": 5,
+	"subregion": "CSK",
+	"value": 104,
+	"key": "CSK vs DD"
+}, {
+	"region": 5,
+	"subregion": "DD",
+	"value": 110,
+	"key": "DD vs CSK"
+}, {
+	"region": 5,
+	"subregion": "MI",
+	"value": 191,
+	"key": "MI vs RR"
+}, {
+	"region": 5,
+	"subregion": "RR",
+	"value": 166,
+	"key": "RR vs MI"
+}, {
+	"region": 5,
+	"subregion": "RCB",
+	"value": 189,
+	"key": "RCB vs CSK"
+}, {
+	"region": 5,
+	"subregion": "CSK",
+	"value": 202,
+	"key": "CSK vs RCB"
+}, {
+	"region": 5,
+	"subregion": "PW",
+	"value": 103,
+	"key": "PW vs KXIP"
+}, {
+	"region": 5,
+	"subregion": "KXIP",
+	"value": 116,
+	"key": "KXIP vs PW"
+}, {
+	"region": 5,
+	"subregion": "RR",
+	"value": 121,
+	"key": "RR vs KKR"
+}, {
+	"region": 5,
+	"subregion": "KKR",
+	"value": 125,
+	"key": "KKR vs RR"
+}, {
+	"region": 5,
+	"subregion": "DC",
+	"value": 151,
+	"key": "DC vs DD"
+}, {
+	"region": 5,
+	"subregion": "DD",
+	"value": 158,
+	"key": "DD vs DC"
+}, {
+	"region": 5,
+	"subregion": "CSK",
+	"value": 149,
+	"key": "CSK vs PW"
+}, {
+	"region": 5,
+	"subregion": "PW",
+	"value": 151,
+	"key": "PW vs CSK"
+}, {
+	"region": 5,
+	"subregion": "KXIP",
+	"value": 127,
+	"key": "KXIP vs KKR"
+}, {
+	"region": 5,
+	"subregion": "KKR",
+	"value": 123,
+	"key": "KKR vs KXIP"
+}, {
+	"region": 5,
+	"subregion": "RR",
+	"value": 189,
+	"key": "RR vs RCB"
+}, {
+	"region": 5,
+	"subregion": "RCB",
+	"value": 133,
+	"key": "RCB vs RR"
+}, {
+	"region": 5,
+	"subregion": "MI",
+	"value": 83,
+	"key": "MI vs DD"
+}, {
+	"region": 5,
+	"subregion": "DD",
+	"value": 82,
+	"key": "DD vs MI"
+}, {
+	"region": 5,
+	"subregion": "DC",
+	"value": 183,
+	"key": "DC vs RR"
+}, {
+	"region": 5,
+	"subregion": "RR",
+	"value": 191,
+	"key": "RR vs DC"
+}, {
+	"region": 5,
+	"subregion": "PW",
+	"value": 175,
+	"key": "PW vs RCB"
+}, {
+	"region": 5,
+	"subregion": "RCB",
+	"value": 179,
+	"key": "RCB vs PW"
+}, {
+	"region": 5,
+	"subregion": "KXIP",
+	"value": 121,
+	"key": "KXIP vs KKR"
+}, {
+	"region": 5,
+	"subregion": "KKR",
+	"value": 122,
+	"key": "KKR vs KXIP"
+}, {
+	"region": 5,
+	"subregion": "DC",
+	"value": 185,
+	"key": "DC vs DD"
+}, {
+	"region": 5,
+	"subregion": "DD",
+	"value": 177,
+	"key": "DD vs DC"
+}, {
+	"region": 5,
+	"subregion": "CSK",
+	"value": 162,
+	"key": "CSK vs PW"
+}, {
+	"region": 5,
+	"subregion": "PW",
+	"value": 136,
+	"key": "PW vs CSK"
+}, {
+	"region": 5,
+	"subregion": "KXIP",
+	"value": 155,
+	"key": "KXIP vs RCB"
+}, {
+	"region": 5,
+	"subregion": "RCB",
+	"value": 158,
+	"key": "RCB vs KXIP"
+}, {
+	"region": 5,
+	"subregion": "RR",
+	"value": 132,
+	"key": "RR vs CSK"
+}, {
+	"region": 5,
+	"subregion": "CSK",
+	"value": 145,
+	"key": "CSK vs RR"
+}, {
+	"region": 5,
+	"subregion": "PW",
+	"value": 177,
+	"key": "PW vs DD"
+}, {
+	"region": 5,
+	"subregion": "DD",
+	"value": 167,
+	"key": "DD vs PW"
+}, {
+	"region": 5,
+	"subregion": "MI",
+	"value": 156,
+	"key": "MI vs KXIP"
+}, {
+	"region": 5,
+	"subregion": "KXIP",
+	"value": 158,
+	"key": "KXIP vs MI"
+}, {
+	"region": 5,
+	"subregion": "DC",
+	"value": 123,
+	"key": "DC vs KKR"
+}, {
+	"region": 5,
+	"subregion": "KKR",
+	"value": 118,
+	"key": "KKR vs DC"
+}, {
+	"region": 5,
+	"subregion": "RCB",
+	"value": 170,
+	"key": "RCB vs RR"
+}, {
+	"region": 5,
+	"subregion": "RR",
+	"value": 133,
+	"key": "RR vs RCB"
+}, {
+	"region": 5,
+	"subregion": "PW",
+	"value": 141,
+	"key": "PW vs DD"
+}, {
+	"region": 5,
+	"subregion": "DD",
+	"value": 141,
+	"key": "DD vs PW"
+}, {
+	"region": 5,
+	"subregion": "KXIP",
+	"value": 158,
+	"key": "KXIP vs MI"
+}, {
+	"region": 5,
+	"subregion": "MI",
+	"value": 162,
+	"key": "MI vs KXIP"
+}, {
+	"region": 5,
+	"subregion": "DC",
+	"value": 166,
+	"key": "DC vs PW"
+}, {
+	"region": 5,
+	"subregion": "PW",
+	"value": 150,
+	"key": "PW vs DC"
+}, {
+	"region": 5,
+	"subregion": "DD",
+	"value": 198,
+	"key": "DD vs MI"
+}, {
+	"region": 5,
+	"subregion": "MI",
+	"value": 166,
+	"key": "MI vs DD"
+}, {
+	"region": 5,
+	"subregion": "KXIP",
+	"value": 151,
+	"key": "KXIP vs CSK"
+}, {
+	"region": 5,
+	"subregion": "CSK",
+	"value": 143,
+	"key": "CSK vs KXIP"
+}, {
+	"region": 5,
+	"subregion": "KKR",
+	"value": 185,
+	"key": "KKR vs RCB"
+}, {
+	"region": 5,
+	"subregion": "RCB",
+	"value": 138,
+	"key": "RCB vs KKR"
+}, {
+	"region": 5,
+	"subregion": "DD",
+	"value": 144,
+	"key": "DD vs RR"
+}, {
+	"region": 5,
+	"subregion": "RR",
+	"value": 147,
+	"key": "RR vs DD"
+}, {
+	"region": 5,
+	"subregion": "DC",
+	"value": 95,
+	"key": "DC vs MI"
+}, {
+	"region": 5,
+	"subregion": "MI",
+	"value": 91,
+	"key": "MI vs DC"
+}, {
+	"region": 5,
+	"subregion": "CSK",
+	"value": 133,
+	"key": "CSK vs KKR"
+}, {
+	"region": 5,
+	"subregion": "KKR",
+	"value": 127,
+	"key": "KKR vs CSK"
+}, {
+	"region": 5,
+	"subregion": "DC",
+	"value": 175,
+	"key": "DC vs PW"
+}, {
+	"region": 5,
+	"subregion": "PW",
+	"value": 167,
+	"key": "PW vs DC"
+}, {
+	"region": 5,
+	"subregion": "RR",
+	"value": 136,
+	"key": "RR vs DD"
+}, {
+	"region": 5,
+	"subregion": "DD",
+	"value": 135,
+	"key": "DD vs RR"
+}, {
+	"region": 5,
+	"subregion": "RCB",
+	"value": 152,
+	"key": "RCB vs KXIP"
+}, {
+	"region": 5,
+	"subregion": "KXIP",
+	"value": 159,
+	"key": "KXIP vs RCB"
+}, {
+	"region": 5,
+	"subregion": "MI",
+	"value": 109,
+	"key": "MI vs PW"
+}, {
+	"region": 5,
+	"subregion": "PW",
+	"value": 113,
+	"key": "PW vs MI"
+}, {
+	"region": 5,
+	"subregion": "CSK",
+	"value": 152,
+	"key": "CSK vs DC"
+}, {
+	"region": 5,
+	"subregion": "DC",
+	"value": 146,
+	"key": "DC vs CSK"
+}, {
+	"region": 5,
+	"subregion": "KKR",
+	"value": 131,
+	"key": "KKR vs PW"
+}, {
+	"region": 5,
+	"subregion": "PW",
+	"value": 133,
+	"key": "PW vs KKR"
+}, {
+	"region": 5,
+	"subregion": "RR",
+	"value": 171,
+	"key": "RR vs KXIP"
+}, {
+	"region": 5,
+	"subregion": "KXIP",
+	"value": 122,
+	"key": "KXIP vs RR"
+}, {
+	"region": 5,
+	"subregion": "CSK",
+	"value": 164,
+	"key": "CSK vs MI"
+}, {
+	"region": 5,
+	"subregion": "MI",
+	"value": 171,
+	"key": "MI vs CSK"
+}, {
+	"region": 5,
+	"subregion": "DC",
+	"value": 175,
+	"key": "DC vs RCB"
+}, {
+	"region": 5,
+	"subregion": "RCB",
+	"value": 179,
+	"key": "RCB vs DC"
+}, {
+	"region": 5,
+	"subregion": "DD",
+	"value": 139,
+	"key": "DD vs KKR"
+}, {
+	"region": 5,
+	"subregion": "KKR",
+	"value": 138,
+	"key": "KKR vs DD"
+}, {
+	"region": 5,
+	"subregion": "PW",
+	"value": 115,
+	"key": "PW vs RR"
+}, {
+	"region": 5,
+	"subregion": "RR",
+	"value": 126,
+	"key": "RR vs PW"
+}, {
+	"region": 5,
+	"subregion": "KXIP",
+	"value": 163,
+	"key": "KXIP vs DC"
+}, {
+	"region": 5,
+	"subregion": "DC",
+	"value": 133,
+	"key": "DC vs KXIP"
+}, {
+	"region": 5,
+	"subregion": "MI",
+	"value": 134,
+	"key": "MI vs RCB"
+}, {
+	"region": 5,
+	"subregion": "RCB",
+	"value": 137,
+	"key": "RCB vs MI"
+}, {
+	"region": 5,
+	"subregion": "RR",
+	"value": 114,
+	"key": "RR vs CSK"
+}, {
+	"region": 5,
+	"subregion": "CSK",
+	"value": 114,
+	"key": "CSK vs RR"
+}, {
+	"region": 5,
+	"subregion": "RCB",
+	"value": 164,
+	"key": "RCB vs PW"
+}, {
+	"region": 5,
+	"subregion": "PW",
+	"value": 134,
+	"key": "PW vs RCB"
+}, {
+	"region": 5,
+	"subregion": "MI",
+	"value": 177,
+	"key": "MI vs KKR"
+}, {
+	"region": 5,
+	"subregion": "KKR",
+	"value": 151,
+	"key": "KKR vs MI"
+}, {
+	"region": 5,
+	"subregion": "DD",
+	"value": 107,
+	"key": "DD vs CSK"
+}, {
+	"region": 5,
+	"subregion": "CSK",
+	"value": 114,
+	"key": "CSK vs DD"
+}, {
+	"region": 5,
+	"subregion": "RR",
+	"value": 167,
+	"key": "RR vs PW"
+}, {
+	"region": 5,
+	"subregion": "PW",
+	"value": 121,
+	"key": "PW vs RR"
+}, {
+	"region": 5,
+	"subregion": "DC",
+	"value": 181,
+	"key": "DC vs KXIP"
+}, {
+	"region": 5,
+	"subregion": "KXIP",
+	"value": 186,
+	"key": "KXIP vs DC"
+}, {
+	"region": 5,
+	"subregion": "RCB",
+	"value": 151,
+	"key": "RCB vs MI"
+}, {
+	"region": 5,
+	"subregion": "MI",
+	"value": 162,
+	"key": "MI vs RCB"
+}, {
+	"region": 5,
+	"subregion": "KKR",
+	"value": 155,
+	"key": "KKR vs CSK"
+}, {
+	"region": 5,
+	"subregion": "CSK",
+	"value": 155,
+	"key": "CSK vs KKR"
+}, {
+	"region": 5,
+	"subregion": "KXIP",
+	"value": 132,
+	"key": "KXIP vs DD"
+}, {
+	"region": 5,
+	"subregion": "DD",
+	"value": 138,
+	"key": "DD vs KXIP"
+}, {
+	"region": 5,
+	"subregion": "KKR",
+	"value": 126,
+	"key": "KKR vs MI"
+}, {
+	"region": 5,
+	"subregion": "MI",
+	"value": 104,
+	"key": "MI vs KKR"
+}, {
+	"region": 5,
+	"subregion": "CSK",
+	"value": 116,
+	"key": "CSK vs KXIP"
+}, {
+	"region": 5,
+	"subregion": "KXIP",
+	"value": 118,
+	"key": "KXIP vs CSK"
+}, {
+	"region": 5,
+	"subregion": "RCB",
+	"value": 211,
+	"key": "RCB vs DD"
+}, {
+	"region": 5,
+	"subregion": "DD",
+	"value": 187,
+	"key": "DD vs RCB"
+}, {
+	"region": 5,
+	"subregion": "RR",
+	"value": 119,
+	"key": "RR vs DC"
+}, {
+	"region": 5,
+	"subregion": "DC",
+	"value": 119,
+	"key": "DC vs RR"
+}, {
+	"region": 5,
+	"subregion": "KXIP",
+	"value": 133,
+	"key": "KXIP vs DD"
+}, {
+	"region": 5,
+	"subregion": "DD",
+	"value": 136,
+	"key": "DD vs KXIP"
+}, {
+	"region": 5,
+	"subregion": "KKR",
+	"value": 129,
+	"key": "KKR vs PW"
+}, {
+	"region": 5,
+	"subregion": "PW",
+	"value": 92,
+	"key": "PW vs KKR"
+}, {
+	"region": 5,
+	"subregion": "DC",
+	"value": 122,
+	"key": "DC vs RCB"
+}, {
+	"region": 5,
+	"subregion": "RCB",
+	"value": 114,
+	"key": "RCB vs DC"
+}, {
+	"region": 5,
+	"subregion": "RR",
+	"value": 148,
+	"key": "RR vs MI"
+}, {
+	"region": 5,
+	"subregion": "MI",
+	"value": 145,
+	"key": "MI vs RR"
+}, {
+	"region": 5,
+	"subregion": "KKR",
+	"value": 158,
+	"key": "KKR vs DD"
+}, {
+	"region": 5,
+	"subregion": "DD",
+	"value": 130,
+	"key": "DD vs KKR"
+}, {
+	"region": 5,
+	"subregion": "CSK",
+	"value": 182,
+	"key": "CSK vs MI"
+}, {
+	"region": 5,
+	"subregion": "MI",
+	"value": 138,
+	"key": "MI vs CSK"
+}, {
+	"region": 5,
+	"subregion": "CSK",
+	"value": 216,
+	"key": "CSK vs DD"
+}, {
+	"region": 5,
+	"subregion": "DD",
+	"value": 125,
+	"key": "DD vs CSK"
+}, {
+	"region": 5,
+	"subregion": "CSK",
+	"value": 183,
+	"key": "CSK vs KKR"
+}, {
+	"region": 5,
+	"subregion": "KKR",
+	"value": 184,
+	"key": "KKR vs CSK"
+}, {
+	"region": 6,
+	"subregion": "DD",
+	"value": 123,
+	"key": "DD vs KKR"
+}, {
+	"region": 6,
+	"subregion": "KKR",
+	"value": 123,
+	"key": "KKR vs DD"
+}, {
+	"region": 6,
+	"subregion": "RCB",
+	"value": 140,
+	"key": "RCB vs MI"
+}, {
+	"region": 6,
+	"subregion": "MI",
+	"value": 146,
+	"key": "MI vs RCB"
+}, {
+	"region": 6,
+	"subregion": "SRH",
+	"value": 123,
+	"key": "SRH vs PW"
+}, {
+	"region": 6,
+	"subregion": "PW",
+	"value": 102,
+	"key": "PW vs SRH"
+}, {
+	"region": 6,
+	"subregion": "RR",
+	"value": 156,
+	"key": "RR vs DD"
+}, {
+	"region": 6,
+	"subregion": "DD",
+	"value": 149,
+	"key": "DD vs RR"
+}, {
+	"region": 6,
+	"subregion": "MI",
+	"value": 139,
+	"key": "MI vs CSK"
+}, {
+	"region": 6,
+	"subregion": "CSK",
+	"value": 132,
+	"key": "CSK vs MI"
+}, {
+	"region": 6,
+	"subregion": "PW",
+	"value": 96,
+	"key": "PW vs KXIP"
+}, {
+	"region": 6,
+	"subregion": "KXIP",
+	"value": 97,
+	"key": "KXIP vs PW"
+}, {
+	"region": 6,
+	"subregion": "RCB",
+	"value": 122,
+	"key": "RCB vs SRH"
+}, {
+	"region": 6,
+	"subregion": "SRH",
+	"value": 114,
+	"key": "SRH vs RCB"
+}, {
+	"region": 6,
+	"subregion": "SRH",
+	"value": 19,
+	"key": "SRH vs RCB"
+}, {
+	"region": 6,
+	"subregion": "RCB",
+	"value": 15,
+	"key": "RCB vs SRH"
+}, {
+	"region": 6,
+	"subregion": "RR",
+	"value": 135,
+	"key": "RR vs KKR"
+}, {
+	"region": 6,
+	"subregion": "KKR",
+	"value": 114,
+	"key": "KKR vs RR"
+}, {
+	"region": 6,
+	"subregion": "MI",
+	"value": 199,
+	"key": "MI vs DD"
+}, {
+	"region": 6,
+	"subregion": "DD",
+	"value": 155,
+	"key": "DD vs MI"
+}, {
+	"region": 6,
+	"subregion": "KXIP",
+	"value": 130,
+	"key": "KXIP vs CSK"
+}, {
+	"region": 6,
+	"subregion": "CSK",
+	"value": 136,
+	"key": "CSK vs KXIP"
+}, {
+	"region": 6,
+	"subregion": "KKR",
+	"value": 148,
+	"key": "KKR vs RCB"
+}, {
+	"region": 6,
+	"subregion": "RCB",
+	"value": 148,
+	"key": "RCB vs KKR"
+}, {
+	"region": 6,
+	"subregion": "RR",
+	"value": 138,
+	"key": "RR vs PW"
+}, {
+	"region": 6,
+	"subregion": "PW",
+	"value": 142,
+	"key": "PW vs RR"
+}, {
+	"region": 6,
+	"subregion": "DD",
+	"value": 107,
+	"key": "DD vs SRH"
+}, {
+	"region": 6,
+	"subregion": "SRH",
+	"value": 112,
+	"key": "SRH vs DD"
+}, {
+	"region": 6,
+	"subregion": "MI",
+	"value": 180,
+	"key": "MI vs PW"
+}, {
+	"region": 6,
+	"subregion": "PW",
+	"value": 137,
+	"key": "PW vs MI"
+}, {
+	"region": 6,
+	"subregion": "RCB",
+	"value": 157,
+	"key": "RCB vs CSK"
+}, {
+	"region": 6,
+	"subregion": "CSK",
+	"value": 158,
+	"key": "CSK vs RCB"
+}, {
+	"region": 6,
+	"subregion": "KKR",
+	"value": 172,
+	"key": "KKR vs SRH"
+}, {
+	"region": 6,
+	"subregion": "SRH",
+	"value": 120,
+	"key": "SRH vs KKR"
+}, {
+	"region": 6,
+	"subregion": "KXIP",
+	"value": 114,
+	"key": "KXIP vs RR"
+}, {
+	"region": 6,
+	"subregion": "RR",
+	"value": 117,
+	"key": "RR vs KXIP"
+}, {
+	"region": 6,
+	"subregion": "PW",
+	"value": 151,
+	"key": "PW vs CSK"
+}, {
+	"region": 6,
+	"subregion": "CSK",
+	"value": 133,
+	"key": "CSK vs PW"
+}, {
+	"region": 6,
+	"subregion": "KXIP",
+	"value": 151,
+	"key": "KXIP vs KKR"
+}, {
+	"region": 6,
+	"subregion": "KKR",
+	"value": 141,
+	"key": "KKR vs KXIP"
+}, {
+	"region": 6,
+	"subregion": "DD",
+	"value": 147,
+	"key": "DD vs RCB"
+}, {
+	"region": 6,
+	"subregion": "RCB",
+	"value": 148,
+	"key": "RCB vs DD"
+}, {
+	"region": 6,
+	"subregion": "RCB",
+	"value": 15,
+	"key": "RCB vs DD"
+}, {
+	"region": 6,
+	"subregion": "DD",
+	"value": 11,
+	"key": "DD vs RCB"
+}, {
+	"region": 6,
+	"subregion": "SRH",
+	"value": 114,
+	"key": "SRH vs PW"
+}, {
+	"region": 6,
+	"subregion": "PW",
+	"value": 108,
+	"key": "PW vs SRH"
+}, {
+	"region": 6,
+	"subregion": "RR",
+	"value": 164,
+	"key": "RR vs MI"
+}, {
+	"region": 6,
+	"subregion": "MI",
+	"value": 85,
+	"key": "MI vs RR"
+}, {
+	"region": 6,
+	"subregion": "CSK",
+	"value": 160,
+	"key": "CSK vs DD"
+}, {
+	"region": 6,
+	"subregion": "DD",
+	"value": 79,
+	"key": "DD vs CSK"
+}, {
+	"region": 6,
+	"subregion": "KXIP",
+	"value": 116,
+	"key": "KXIP vs SRH"
+}, {
+	"region": 6,
+	"subregion": "SRH",
+	"value": 121,
+	"key": "SRH vs KXIP"
+}, {
+	"region": 6,
+	"subregion": "KKR",
+	"value": 115,
+	"key": "KKR vs CSK"
+}, {
+	"region": 6,
+	"subregion": "CSK",
+	"value": 118,
+	"key": "CSK vs KKR"
+}, {
+	"region": 6,
+	"subregion": "RR",
+	"value": 117,
+	"key": "RR vs RCB"
+}, {
+	"region": 6,
+	"subregion": "RCB",
+	"value": 107,
+	"key": "RCB vs RR"
+}, {
+	"region": 6,
+	"subregion": "MI",
+	"value": 154,
+	"key": "MI vs DD"
+}, {
+	"region": 6,
+	"subregion": "DD",
+	"value": 161,
+	"key": "DD vs MI"
+}, {
+	"region": 6,
+	"subregion": "PW",
+	"value": 177,
+	"key": "PW vs KXIP"
+}, {
+	"region": 6,
+	"subregion": "KXIP",
+	"value": 183,
+	"key": "KXIP vs PW"
+}, {
+	"region": 6,
+	"subregion": "RR",
+	"value": 185,
+	"key": "RR vs CSK"
+}, {
+	"region": 6,
+	"subregion": "CSK",
+	"value": 186,
+	"key": "CSK vs RR"
+}, {
+	"region": 6,
+	"subregion": "RCB",
+	"value": 263,
+	"key": "RCB vs PW"
+}, {
+	"region": 6,
+	"subregion": "PW",
+	"value": 133,
+	"key": "PW vs RCB"
+}, {
+	"region": 6,
+	"subregion": "KXIP",
+	"value": 171,
+	"key": "KXIP vs DD"
+}, {
+	"region": 6,
+	"subregion": "DD",
+	"value": 164,
+	"key": "DD vs KXIP"
+}, {
+	"region": 6,
+	"subregion": "KKR",
+	"value": 159,
+	"key": "KKR vs MI"
+}, {
+	"region": 6,
+	"subregion": "MI",
+	"value": 162,
+	"key": "MI vs KKR"
+}, {
+	"region": 6,
+	"subregion": "SRH",
+	"value": 159,
+	"key": "SRH vs CSK"
+}, {
+	"region": 6,
+	"subregion": "CSK",
+	"value": 160,
+	"key": "CSK vs SRH"
+}, {
+	"region": 6,
+	"subregion": "KXIP",
+	"value": 149,
+	"key": "KXIP vs KKR"
+}, {
+	"region": 6,
+	"subregion": "KKR",
+	"value": 150,
+	"key": "KKR vs KXIP"
+}, {
+	"region": 6,
+	"subregion": "SRH",
+	"value": 144,
+	"key": "SRH vs RR"
+}, {
+	"region": 6,
+	"subregion": "RR",
+	"value": 146,
+	"key": "RR vs SRH"
+}, {
+	"region": 6,
+	"subregion": "MI",
+	"value": 194,
+	"key": "MI vs RCB"
+}, {
+	"region": 6,
+	"subregion": "RCB",
+	"value": 136,
+	"key": "RCB vs MI"
+}, {
+	"region": 6,
+	"subregion": "CSK",
+	"value": 200,
+	"key": "CSK vs KKR"
+}, {
+	"region": 6,
+	"subregion": "KKR",
+	"value": 186,
+	"key": "KKR vs CSK"
+}, {
+	"region": 6,
+	"subregion": "DD",
+	"value": 164,
+	"key": "DD vs PW"
+}, {
+	"region": 6,
+	"subregion": "PW",
+	"value": 149,
+	"key": "PW vs DD"
+}, {
+	"region": 6,
+	"subregion": "RCB",
+	"value": 171,
+	"key": "RCB vs RR"
+}, {
+	"region": 6,
+	"subregion": "RR",
+	"value": 173,
+	"key": "RR vs RCB"
+}, {
+	"region": 6,
+	"subregion": "MI",
+	"value": 174,
+	"key": "MI vs KXIP"
+}, {
+	"region": 6,
+	"subregion": "KXIP",
+	"value": 170,
+	"key": "KXIP vs MI"
+}, {
+	"region": 6,
+	"subregion": "CSK",
+	"value": 164,
+	"key": "CSK vs PW"
+}, {
+	"region": 6,
+	"subregion": "PW",
+	"value": 127,
+	"key": "PW vs CSK"
+}, {
+	"region": 6,
+	"subregion": "MI",
+	"value": 129,
+	"key": "MI vs SRH"
+}, {
+	"region": 6,
+	"subregion": "SRH",
+	"value": 130,
+	"key": "SRH vs MI"
+}, {
+	"region": 6,
+	"subregion": "KKR",
+	"value": 136,
+	"key": "KKR vs DD"
+}, {
+	"region": 6,
+	"subregion": "DD",
+	"value": 137,
+	"key": "DD vs KKR"
+}, {
+	"region": 6,
+	"subregion": "CSK",
+	"value": 186,
+	"key": "CSK vs KXIP"
+}, {
+	"region": 6,
+	"subregion": "KXIP",
+	"value": 171,
+	"key": "KXIP vs CSK"
+}, {
+	"region": 6,
+	"subregion": "RCB",
+	"value": 187,
+	"key": "RCB vs PW"
+}, {
+	"region": 6,
+	"subregion": "PW",
+	"value": 170,
+	"key": "PW vs RCB"
+}, {
+	"region": 6,
+	"subregion": "RR",
+	"value": 132,
+	"key": "RR vs KKR"
+}, {
+	"region": 6,
+	"subregion": "KKR",
+	"value": 133,
+	"key": "KKR vs RR"
+}, {
+	"region": 6,
+	"subregion": "DD",
+	"value": 80,
+	"key": "DD vs SRH"
+}, {
+	"region": 6,
+	"subregion": "SRH",
+	"value": 81,
+	"key": "SRH vs DD"
+}, {
+	"region": 6,
+	"subregion": "RCB",
+	"value": 174,
+	"key": "RCB vs KXIP"
+}, {
+	"region": 6,
+	"subregion": "KXIP",
+	"value": 176,
+	"key": "KXIP vs RCB"
+}, {
+	"region": 6,
+	"subregion": "MI",
+	"value": 139,
+	"key": "MI vs CSK"
+}, {
+	"region": 6,
+	"subregion": "CSK",
+	"value": 79,
+	"key": "CSK vs MI"
+}, {
+	"region": 6,
+	"subregion": "PW",
+	"value": 178,
+	"key": "PW vs RR"
+}, {
+	"region": 6,
+	"subregion": "RR",
+	"value": 182,
+	"key": "RR vs PW"
+}, {
+	"region": 6,
+	"subregion": "SRH",
+	"value": 161,
+	"key": "SRH vs RCB"
+}, {
+	"region": 6,
+	"subregion": "RCB",
+	"value": 162,
+	"key": "RCB vs SRH"
+}, {
+	"region": 6,
+	"subregion": "DD",
+	"value": 154,
+	"key": "DD vs RR"
+}, {
+	"region": 6,
+	"subregion": "RR",
+	"value": 155,
+	"key": "RR vs DD"
+}, {
+	"region": 6,
+	"subregion": "MI",
+	"value": 170,
+	"key": "MI vs KKR"
+}, {
+	"region": 6,
+	"subregion": "KKR",
+	"value": 105,
+	"key": "KKR vs MI"
+}, {
+	"region": 6,
+	"subregion": "CSK",
+	"value": 223,
+	"key": "CSK vs SRH"
+}, {
+	"region": 6,
+	"subregion": "SRH",
+	"value": 146,
+	"key": "SRH vs CSK"
+}, {
+	"region": 6,
+	"subregion": "KXIP",
+	"value": 145,
+	"key": "KXIP vs RR"
+}, {
+	"region": 6,
+	"subregion": "RR",
+	"value": 147,
+	"key": "RR vs KXIP"
+}, {
+	"region": 6,
+	"subregion": "KKR",
+	"value": 152,
+	"key": "KKR vs PW"
+}, {
+	"region": 6,
+	"subregion": "PW",
+	"value": 106,
+	"key": "PW vs KKR"
+}, {
+	"region": 6,
+	"subregion": "RCB",
+	"value": 183,
+	"key": "RCB vs DD"
+}, {
+	"region": 6,
+	"subregion": "DD",
+	"value": 179,
+	"key": "DD vs RCB"
+}, {
+	"region": 6,
+	"subregion": "PW",
+	"value": 112,
+	"key": "PW vs MI"
+}, {
+	"region": 6,
+	"subregion": "MI",
+	"value": 116,
+	"key": "MI vs PW"
+}, {
+	"region": 6,
+	"subregion": "SRH",
+	"value": 150,
+	"key": "SRH vs KXIP"
+}, {
+	"region": 6,
+	"subregion": "KXIP",
+	"value": 120,
+	"key": "KXIP vs SRH"
+}, {
+	"region": 6,
+	"subregion": "RCB",
+	"value": 115,
+	"key": "RCB vs KKR"
+}, {
+	"region": 6,
+	"subregion": "KKR",
+	"value": 116,
+	"key": "KKR vs RCB"
+}, {
+	"region": 6,
+	"subregion": "CSK",
+	"value": 141,
+	"key": "CSK vs RR"
+}, {
+	"region": 6,
+	"subregion": "RR",
+	"value": 144,
+	"key": "RR vs CSK"
+}, {
+	"region": 6,
+	"subregion": "DD",
+	"value": 120,
+	"key": "DD vs KXIP"
+}, {
+	"region": 6,
+	"subregion": "KXIP",
+	"value": 121,
+	"key": "KXIP vs DD"
+}, {
+	"region": 6,
+	"subregion": "SRH",
+	"value": 178,
+	"key": "SRH vs MI"
+}, {
+	"region": 6,
+	"subregion": "MI",
+	"value": 184,
+	"key": "MI vs SRH"
+}, {
+	"region": 6,
+	"subregion": "PW",
+	"value": 170,
+	"key": "PW vs KKR"
+}, {
+	"region": 6,
+	"subregion": "KKR",
+	"value": 163,
+	"key": "KKR vs PW"
+}, {
+	"region": 6,
+	"subregion": "CSK",
+	"value": 168,
+	"key": "CSK vs DD"
+}, {
+	"region": 6,
+	"subregion": "DD",
+	"value": 135,
+	"key": "DD vs CSK"
+}, {
+	"region": 6,
+	"subregion": "MI",
+	"value": 166,
+	"key": "MI vs RR"
+}, {
+	"region": 6,
+	"subregion": "RR",
+	"value": 152,
+	"key": "RR vs MI"
+}, {
+	"region": 6,
+	"subregion": "RCB",
+	"value": 190,
+	"key": "RCB vs KXIP"
+}, {
+	"region": 6,
+	"subregion": "KXIP",
+	"value": 194,
+	"key": "KXIP vs RCB"
+}, {
+	"region": 6,
+	"subregion": "SRH",
+	"value": 136,
+	"key": "SRH vs RR"
+}, {
+	"region": 6,
+	"subregion": "RR",
+	"value": 113,
+	"key": "RR vs SRH"
+}, {
+	"region": 6,
+	"subregion": "KXIP",
+	"value": 183,
+	"key": "KXIP vs MI"
+}, {
+	"region": 6,
+	"subregion": "MI",
+	"value": 133,
+	"key": "MI vs KXIP"
+}, {
+	"region": 6,
+	"subregion": "PW",
+	"value": 172,
+	"key": "PW vs DD"
+}, {
+	"region": 6,
+	"subregion": "DD",
+	"value": 134,
+	"key": "DD vs PW"
+}, {
+	"region": 6,
+	"subregion": "RCB",
+	"value": 106,
+	"key": "RCB vs CSK"
+}, {
+	"region": 6,
+	"subregion": "CSK",
+	"value": 82,
+	"key": "CSK vs RCB"
+}, {
+	"region": 6,
+	"subregion": "KKR",
+	"value": 130,
+	"key": "KKR vs SRH"
+}, {
+	"region": 6,
+	"subregion": "SRH",
+	"value": 132,
+	"key": "SRH vs KKR"
+}, {
+	"region": 6,
+	"subregion": "CSK",
+	"value": 192,
+	"key": "CSK vs MI"
+}, {
+	"region": 6,
+	"subregion": "MI",
+	"value": 144,
+	"key": "MI vs CSK"
+}, {
+	"region": 6,
+	"subregion": "SRH",
+	"value": 132,
+	"key": "SRH vs RR"
+}, {
+	"region": 6,
+	"subregion": "RR",
+	"value": 135,
+	"key": "RR vs SRH"
+}, {
+	"region": 6,
+	"subregion": "RR",
+	"value": 165,
+	"key": "RR vs MI"
+}, {
+	"region": 6,
+	"subregion": "MI",
+	"value": 169,
+	"key": "MI vs RR"
+}, {
+	"region": 6,
+	"subregion": "MI",
+	"value": 148,
+	"key": "MI vs CSK"
+}, {
+	"region": 6,
+	"subregion": "CSK",
+	"value": 125,
+	"key": "CSK vs MI"
+}, {
+	"region": 7,
+	"subregion": "KKR",
+	"value": 163,
+	"key": "KKR vs MI"
+}, {
+	"region": 7,
+	"subregion": "MI",
+	"value": 122,
+	"key": "MI vs KKR"
+}, {
+	"region": 7,
+	"subregion": "DD",
+	"value": 145,
+	"key": "DD vs RCB"
+}, {
+	"region": 7,
+	"subregion": "RCB",
+	"value": 146,
+	"key": "RCB vs DD"
+}, {
+	"region": 7,
+	"subregion": "CSK",
+	"value": 205,
+	"key": "CSK vs KXIP"
+}, {
+	"region": 7,
+	"subregion": "KXIP",
+	"value": 206,
+	"key": "KXIP vs CSK"
+}, {
+	"region": 7,
+	"subregion": "SRH",
+	"value": 133,
+	"key": "SRH vs RR"
+}, {
+	"region": 7,
+	"subregion": "RR",
+	"value": 135,
+	"key": "RR vs SRH"
+}, {
+	"region": 7,
+	"subregion": "MI",
+	"value": 115,
+	"key": "MI vs RCB"
+}, {
+	"region": 7,
+	"subregion": "RCB",
+	"value": 116,
+	"key": "RCB vs MI"
+}, {
+	"region": 7,
+	"subregion": "KKR",
+	"value": 166,
+	"key": "KKR vs DD"
+}, {
+	"region": 7,
+	"subregion": "DD",
+	"value": 167,
+	"key": "DD vs KKR"
+}, {
+	"region": 7,
+	"subregion": "RR",
+	"value": 191,
+	"key": "RR vs KXIP"
+}, {
+	"region": 7,
+	"subregion": "KXIP",
+	"value": 193,
+	"key": "KXIP vs RR"
+}, {
+	"region": 7,
+	"subregion": "CSK",
+	"value": 177,
+	"key": "CSK vs DD"
+}, {
+	"region": 7,
+	"subregion": "DD",
+	"value": 84,
+	"key": "DD vs CSK"
+}, {
+	"region": 7,
+	"subregion": "KXIP",
+	"value": 193,
+	"key": "KXIP vs SRH"
+}, {
+	"region": 7,
+	"subregion": "SRH",
+	"value": 121,
+	"key": "SRH vs KXIP"
+}, {
+	"region": 7,
+	"subregion": "CSK",
+	"value": 140,
+	"key": "CSK vs RR"
+}, {
+	"region": 7,
+	"subregion": "RR",
+	"value": 133,
+	"key": "RR vs CSK"
+}, {
+	"region": 7,
+	"subregion": "KKR",
+	"value": 150,
+	"key": "KKR vs RCB"
+}, {
+	"region": 7,
+	"subregion": "RCB",
+	"value": 148,
+	"key": "RCB vs KKR"
+}, {
+	"region": 7,
+	"subregion": "SRH",
+	"value": 184,
+	"key": "SRH vs DD"
+}, {
+	"region": 7,
+	"subregion": "DD",
+	"value": 180,
+	"key": "DD vs SRH"
+}, {
+	"region": 7,
+	"subregion": "MI",
+	"value": 141,
+	"key": "MI vs CSK"
+}, {
+	"region": 7,
+	"subregion": "CSK",
+	"value": 142,
+	"key": "CSK vs MI"
+}, {
+	"region": 7,
+	"subregion": "RCB",
+	"value": 70,
+	"key": "RCB vs RR"
+}, {
+	"region": 7,
+	"subregion": "RR",
+	"value": 71,
+	"key": "RR vs RCB"
+}, {
+	"region": 7,
+	"subregion": "KXIP",
+	"value": 132,
+	"key": "KXIP vs KKR"
+}, {
+	"region": 7,
+	"subregion": "KKR",
+	"value": 109,
+	"key": "KKR vs KXIP"
+}, {
+	"region": 7,
+	"subregion": "MI",
+	"value": 125,
+	"key": "MI vs DD"
+}, {
+	"region": 7,
+	"subregion": "DD",
+	"value": 121,
+	"key": "DD vs MI"
+}, {
+	"region": 7,
+	"subregion": "SRH",
+	"value": 145,
+	"key": "SRH vs CSK"
+}, {
+	"region": 7,
+	"subregion": "CSK",
+	"value": 146,
+	"key": "CSK vs SRH"
+}, {
+	"region": 7,
+	"subregion": "RCB",
+	"value": 124,
+	"key": "RCB vs KXIP"
+}, {
+	"region": 7,
+	"subregion": "KXIP",
+	"value": 127,
+	"key": "KXIP vs RCB"
+}, {
+	"region": 7,
+	"subregion": "RR",
+	"value": 152,
+	"key": "RR vs KKR"
+}, {
+	"region": 7,
+	"subregion": "KKR",
+	"value": 152,
+	"key": "KKR vs RR"
+}, {
+	"region": 7,
+	"subregion": "KKR",
+	"value": 11,
+	"key": "KKR vs RR"
+}, {
+	"region": 7,
+	"subregion": "RR",
+	"value": 11,
+	"key": "RR vs KKR"
+}, {
+	"region": 7,
+	"subregion": "SRH",
+	"value": 172,
+	"key": "SRH vs MI"
+}, {
+	"region": 7,
+	"subregion": "MI",
+	"value": 157,
+	"key": "MI vs SRH"
+}, {
+	"region": 7,
+	"subregion": "CSK",
+	"value": 148,
+	"key": "CSK vs KKR"
+}, {
+	"region": 7,
+	"subregion": "KKR",
+	"value": 114,
+	"key": "KKR vs CSK"
+}, {
+	"region": 7,
+	"subregion": "KXIP",
+	"value": 168,
+	"key": "KXIP vs MI"
+}, {
+	"region": 7,
+	"subregion": "MI",
+	"value": 170,
+	"key": "MI vs KXIP"
+}, {
+	"region": 7,
+	"subregion": "DD",
+	"value": 152,
+	"key": "DD vs RR"
+}, {
+	"region": 7,
+	"subregion": "RR",
+	"value": 156,
+	"key": "RR vs DD"
+}, {
+	"region": 7,
+	"subregion": "SRH",
+	"value": 155,
+	"key": "SRH vs RCB"
+}, {
+	"region": 7,
+	"subregion": "RCB",
+	"value": 158,
+	"key": "RCB vs SRH"
+}, {
+	"region": 7,
+	"subregion": "RR",
+	"value": 170,
+	"key": "RR vs KKR"
+}, {
+	"region": 7,
+	"subregion": "KKR",
+	"value": 160,
+	"key": "KKR vs RR"
+}, {
+	"region": 7,
+	"subregion": "DD",
+	"value": 178,
+	"key": "DD vs CSK"
+}, {
+	"region": 7,
+	"subregion": "CSK",
+	"value": 181,
+	"key": "CSK vs DD"
+}, {
+	"region": 7,
+	"subregion": "MI",
+	"value": 187,
+	"key": "MI vs RCB"
+}, {
+	"region": 7,
+	"subregion": "RCB",
+	"value": 168,
+	"key": "RCB vs MI"
+}, {
+	"region": 7,
+	"subregion": "DD",
+	"value": 160,
+	"key": "DD vs KKR"
+}, {
+	"region": 7,
+	"subregion": "KKR",
+	"value": 161,
+	"key": "KKR vs DD"
+}, {
+	"region": 7,
+	"subregion": "KXIP",
+	"value": 231,
+	"key": "KXIP vs CSK"
+}, {
+	"region": 7,
+	"subregion": "CSK",
+	"value": 187,
+	"key": "CSK vs KXIP"
+}, {
+	"region": 7,
+	"subregion": "SRH",
+	"value": 134,
+	"key": "SRH vs RR"
+}, {
+	"region": 7,
+	"subregion": "RR",
+	"value": 102,
+	"key": "RR vs SRH"
+}, {
+	"region": 7,
+	"subregion": "KXIP",
+	"value": 198,
+	"key": "KXIP vs RCB"
+}, {
+	"region": 7,
+	"subregion": "RCB",
+	"value": 166,
+	"key": "RCB vs KXIP"
+}, {
+	"region": 7,
+	"subregion": "DD",
+	"value": 143,
+	"key": "DD vs SRH"
+}, {
+	"region": 7,
+	"subregion": "SRH",
+	"value": 44,
+	"key": "SRH vs DD"
+}, {
+	"region": 7,
+	"subregion": "MI",
+	"value": 157,
+	"key": "MI vs CSK"
+}, {
+	"region": 7,
+	"subregion": "CSK",
+	"value": 160,
+	"key": "CSK vs MI"
+}, {
+	"region": 7,
+	"subregion": "KXIP",
+	"value": 149,
+	"key": "KXIP vs KKR"
+}, {
+	"region": 7,
+	"subregion": "KKR",
+	"value": 150,
+	"key": "KKR vs KXIP"
+}, {
+	"region": 7,
+	"subregion": "RCB",
+	"value": 190,
+	"key": "RCB vs RR"
+}, {
+	"region": 7,
+	"subregion": "RR",
+	"value": 191,
+	"key": "RR vs RCB"
+}, {
+	"region": 7,
+	"subregion": "SRH",
+	"value": 157,
+	"key": "SRH vs MI"
+}, {
+	"region": 7,
+	"subregion": "MI",
+	"value": 160,
+	"key": "MI vs SRH"
+}, {
+	"region": 7,
+	"subregion": "RR",
+	"value": 148,
+	"key": "RR vs CSK"
+}, {
+	"region": 7,
+	"subregion": "CSK",
+	"value": 149,
+	"key": "CSK vs RR"
+}, {
+	"region": 7,
+	"subregion": "RCB",
+	"value": 186,
+	"key": "RCB vs DD"
+}, {
+	"region": 7,
+	"subregion": "DD",
+	"value": 170,
+	"key": "DD vs RCB"
+}, {
+	"region": 7,
+	"subregion": "SRH",
+	"value": 205,
+	"key": "SRH vs KXIP"
+}, {
+	"region": 7,
+	"subregion": "KXIP",
+	"value": 211,
+	"key": "KXIP vs SRH"
+}, {
+	"region": 7,
+	"subregion": "MI",
+	"value": 141,
+	"key": "MI vs KKR"
+}, {
+	"region": 7,
+	"subregion": "KKR",
+	"value": 142,
+	"key": "KKR vs MI"
+}, {
+	"region": 7,
+	"subregion": "RR",
+	"value": 201,
+	"key": "RR vs DD"
+}, {
+	"region": 7,
+	"subregion": "DD",
+	"value": 139,
+	"key": "DD vs RR"
+}, {
+	"region": 7,
+	"subregion": "CSK",
+	"value": 138,
+	"key": "CSK vs RCB"
+}, {
+	"region": 7,
+	"subregion": "RCB",
+	"value": 142,
+	"key": "RCB vs CSK"
+}, {
+	"region": 7,
+	"subregion": "SRH",
+	"value": 142,
+	"key": "SRH vs KKR"
+}, {
+	"region": 7,
+	"subregion": "KKR",
+	"value": 146,
+	"key": "KKR vs SRH"
+}, {
+	"region": 7,
+	"subregion": "MI",
+	"value": 178,
+	"key": "MI vs RR"
+}, {
+	"region": 7,
+	"subregion": "RR",
+	"value": 153,
+	"key": "RR vs MI"
+}, {
+	"region": 7,
+	"subregion": "DD",
+	"value": 164,
+	"key": "DD vs KXIP"
+}, {
+	"region": 7,
+	"subregion": "KXIP",
+	"value": 165,
+	"key": "KXIP vs DD"
+}, {
+	"region": 7,
+	"subregion": "RCB",
+	"value": 160,
+	"key": "RCB vs SRH"
+}, {
+	"region": 7,
+	"subregion": "SRH",
+	"value": 161,
+	"key": "SRH vs RCB"
+}, {
+	"region": 7,
+	"subregion": "CSK",
+	"value": 154,
+	"key": "CSK vs KKR"
+}, {
+	"region": 7,
+	"subregion": "KKR",
+	"value": 156,
+	"key": "KKR vs CSK"
+}, {
+	"region": 7,
+	"subregion": "KXIP",
+	"value": 156,
+	"key": "KXIP vs MI"
+}, {
+	"region": 7,
+	"subregion": "MI",
+	"value": 159,
+	"key": "MI vs KXIP"
+}, {
+	"region": 7,
+	"subregion": "KKR",
+	"value": 195,
+	"key": "KKR vs RCB"
+}, {
+	"region": 7,
+	"subregion": "RCB",
+	"value": 165,
+	"key": "RCB vs KKR"
+}, {
+	"region": 7,
+	"subregion": "CSK",
+	"value": 185,
+	"key": "CSK vs SRH"
+}, {
+	"region": 7,
+	"subregion": "SRH",
+	"value": 189,
+	"key": "SRH vs CSK"
+}, {
+	"region": 7,
+	"subregion": "MI",
+	"value": 173,
+	"key": "MI vs DD"
+}, {
+	"region": 7,
+	"subregion": "DD",
+	"value": 158,
+	"key": "DD vs MI"
+}, {
+	"region": 7,
+	"subregion": "KXIP",
+	"value": 179,
+	"key": "KXIP vs RR"
+}, {
+	"region": 7,
+	"subregion": "RR",
+	"value": 163,
+	"key": "RR vs KXIP"
+}, {
+	"region": 7,
+	"subregion": "RCB",
+	"value": 154,
+	"key": "RCB vs CSK"
+}, {
+	"region": 7,
+	"subregion": "CSK",
+	"value": 160,
+	"key": "CSK vs RCB"
+}, {
+	"region": 7,
+	"subregion": "SRH",
+	"value": 160,
+	"key": "SRH vs KKR"
+}, {
+	"region": 7,
+	"subregion": "KKR",
+	"value": 161,
+	"key": "KKR vs SRH"
+}, {
+	"region": 7,
+	"subregion": "DD",
+	"value": 115,
+	"key": "DD vs KXIP"
+}, {
+	"region": 7,
+	"subregion": "KXIP",
+	"value": 119,
+	"key": "KXIP vs DD"
+}, {
+	"region": 7,
+	"subregion": "RR",
+	"value": 189,
+	"key": "RR vs MI"
+}, {
+	"region": 7,
+	"subregion": "MI",
+	"value": 195,
+	"key": "MI vs RR"
+}, {
+	"region": 7,
+	"subregion": "KKR",
+	"value": 163,
+	"key": "KKR vs KXIP"
+}, {
+	"region": 7,
+	"subregion": "KXIP",
+	"value": 135,
+	"key": "KXIP vs KKR"
+}, {
+	"region": 7,
+	"subregion": "MI",
+	"value": 173,
+	"key": "MI vs CSK"
+}, {
+	"region": 7,
+	"subregion": "CSK",
+	"value": 176,
+	"key": "CSK vs MI"
+}, {
+	"region": 7,
+	"subregion": "KXIP",
+	"value": 226,
+	"key": "KXIP vs CSK"
+}, {
+	"region": 7,
+	"subregion": "CSK",
+	"value": 202,
+	"key": "CSK vs KXIP"
+}, {
+	"region": 7,
+	"subregion": "KXIP",
+	"value": 199,
+	"key": "KXIP vs KKR"
+}, {
+	"region": 7,
+	"subregion": "KKR",
+	"value": 200,
+	"key": "KKR vs KXIP"
+}, {
+	"region": 8,
+	"subregion": "MI",
+	"value": 168,
+	"key": "MI vs KKR"
+}, {
+	"region": 8,
+	"subregion": "KKR",
+	"value": 170,
+	"key": "KKR vs MI"
+}, {
+	"region": 8,
+	"subregion": "CSK",
+	"value": 150,
+	"key": "CSK vs DD"
+}, {
+	"region": 8,
+	"subregion": "DD",
+	"value": 149,
+	"key": "DD vs CSK"
+}, {
+	"region": 8,
+	"subregion": "RR",
+	"value": 162,
+	"key": "RR vs KXIP"
+}, {
+	"region": 8,
+	"subregion": "KXIP",
+	"value": 136,
+	"key": "KXIP vs RR"
+}, {
+	"region": 8,
+	"subregion": "CSK",
+	"value": 209,
+	"key": "CSK vs SRH"
+}, {
+	"region": 8,
+	"subregion": "SRH",
+	"value": 164,
+	"key": "SRH vs CSK"
+}, {
+	"region": 8,
+	"subregion": "KKR",
+	"value": 177,
+	"key": "KKR vs RCB"
+}, {
+	"region": 8,
+	"subregion": "RCB",
+	"value": 179,
+	"key": "RCB vs KKR"
+}, {
+	"region": 8,
+	"subregion": "DD",
+	"value": 184,
+	"key": "DD vs RR"
+}, {
+	"region": 8,
+	"subregion": "RR",
+	"value": 186,
+	"key": "RR vs DD"
+}, {
+	"region": 8,
+	"subregion": "KXIP",
+	"value": 177,
+	"key": "KXIP vs MI"
+}, {
+	"region": 8,
+	"subregion": "MI",
+	"value": 159,
+	"key": "MI vs KXIP"
+}, {
+	"region": 8,
+	"subregion": "RCB",
+	"value": 166,
+	"key": "RCB vs SRH"
+}, {
+	"region": 8,
+	"subregion": "SRH",
+	"value": 172,
+	"key": "SRH vs RCB"
+}, {
+	"region": 8,
+	"subregion": "MI",
+	"value": 164,
+	"key": "MI vs RR"
+}, {
+	"region": 8,
+	"subregion": "RR",
+	"value": 165,
+	"key": "RR vs MI"
+}, {
+	"region": 8,
+	"subregion": "CSK",
+	"value": 165,
+	"key": "CSK vs KKR"
+}, {
+	"region": 8,
+	"subregion": "KKR",
+	"value": 169,
+	"key": "KKR vs CSK"
+}, {
+	"region": 8,
+	"subregion": "KXIP",
+	"value": 165,
+	"key": "KXIP vs DD"
+}, {
+	"region": 8,
+	"subregion": "DD",
+	"value": 169,
+	"key": "DD vs KXIP"
+}, {
+	"region": 8,
+	"subregion": "SRH",
+	"value": 127,
+	"key": "SRH vs RR"
+}, {
+	"region": 8,
+	"subregion": "RR",
+	"value": 131,
+	"key": "RR vs SRH"
+}, {
+	"region": 8,
+	"subregion": "MI",
+	"value": 183,
+	"key": "MI vs CSK"
+}, {
+	"region": 8,
+	"subregion": "CSK",
+	"value": 189,
+	"key": "CSK vs MI"
+}, {
+	"region": 8,
+	"subregion": "DD",
+	"value": 167,
+	"key": "DD vs SRH"
+}, {
+	"region": 8,
+	"subregion": "SRH",
+	"value": 163,
+	"key": "SRH vs DD"
+}, {
+	"region": 8,
+	"subregion": "KXIP",
+	"value": 155,
+	"key": "KXIP vs KKR"
+}, {
+	"region": 8,
+	"subregion": "KKR",
+	"value": 159,
+	"key": "KKR vs KXIP"
+}, {
+	"region": 8,
+	"subregion": "CSK",
+	"value": 156,
+	"key": "CSK vs RR"
+}, {
+	"region": 8,
+	"subregion": "RR",
+	"value": 157,
+	"key": "RR vs CSK"
+}, {
+	"region": 8,
+	"subregion": "MI",
+	"value": 209,
+	"key": "MI vs RCB"
+}, {
+	"region": 8,
+	"subregion": "RCB",
+	"value": 191,
+	"key": "RCB vs MI"
+}, {
+	"region": 8,
+	"subregion": "DD",
+	"value": 146,
+	"key": "DD vs KKR"
+}, {
+	"region": 8,
+	"subregion": "KKR",
+	"value": 147,
+	"key": "KKR vs DD"
+}, {
+	"region": 8,
+	"subregion": "RR",
+	"value": 191,
+	"key": "RR vs KXIP"
+}, {
+	"region": 8,
+	"subregion": "KXIP",
+	"value": 191,
+	"key": "KXIP vs RR"
+}, {
+	"region": 8,
+	"subregion": "KXIP",
+	"value": 15,
+	"key": "KXIP vs RR"
+}, {
+	"region": 8,
+	"subregion": "RR",
+	"value": 6,
+	"key": "RR vs KXIP"
+}, {
+	"region": 8,
+	"subregion": "SRH",
+	"value": 176,
+	"key": "SRH vs KKR"
+}, {
+	"region": 8,
+	"subregion": "KKR",
+	"value": 101,
+	"key": "KKR vs SRH"
+}, {
+	"region": 8,
+	"subregion": "CSK",
+	"value": 181,
+	"key": "CSK vs RCB"
+}, {
+	"region": 8,
+	"subregion": "RCB",
+	"value": 154,
+	"key": "RCB vs CSK"
+}, {
+	"region": 8,
+	"subregion": "DD",
+	"value": 190,
+	"key": "DD vs MI"
+}, {
+	"region": 8,
+	"subregion": "MI",
+	"value": 153,
+	"key": "MI vs DD"
+}, {
+	"region": 8,
+	"subregion": "RR",
+	"value": 130,
+	"key": "RR vs RCB"
+}, {
+	"region": 8,
+	"subregion": "RCB",
+	"value": 134,
+	"key": "RCB vs RR"
+}, {
+	"region": 8,
+	"subregion": "MI",
+	"value": 157,
+	"key": "MI vs SRH"
+}, {
+	"region": 8,
+	"subregion": "SRH",
+	"value": 137,
+	"key": "SRH vs MI"
+}, {
+	"region": 8,
+	"subregion": "CSK",
+	"value": 192,
+	"key": "CSK vs KXIP"
+}, {
+	"region": 8,
+	"subregion": "KXIP",
+	"value": 95,
+	"key": "KXIP vs CSK"
+}, {
+	"region": 8,
+	"subregion": "DD",
+	"value": 95,
+	"key": "DD vs RCB"
+}, {
+	"region": 8,
+	"subregion": "RCB",
+	"value": 99,
+	"key": "RCB vs DD"
+}, {
+	"region": 8,
+	"subregion": "SRH",
+	"value": 150,
+	"key": "SRH vs KXIP"
+}, {
+	"region": 8,
+	"subregion": "KXIP",
+	"value": 130,
+	"key": "KXIP vs SRH"
+}, {
+	"region": 8,
+	"subregion": "KKR",
+	"value": 171,
+	"key": "KKR vs DD"
+}, {
+	"region": 8,
+	"subregion": "DD",
+	"value": 158,
+	"key": "DD vs KKR"
+}, {
+	"region": 8,
+	"subregion": "RCB",
+	"value": 200,
+	"key": "RCB vs RR"
+}, {
+	"region": 8,
+	"subregion": "CSK",
+	"value": 134,
+	"key": "CSK vs KKR"
+}, {
+	"region": 8,
+	"subregion": "KKR",
+	"value": 132,
+	"key": "KKR vs CSK"
+}, {
+	"region": 8,
+	"subregion": "KXIP",
+	"value": 118,
+	"key": "KXIP vs DD"
+}, {
+	"region": 8,
+	"subregion": "DD",
+	"value": 119,
+	"key": "DD vs KXIP"
+}, {
+	"region": 8,
+	"subregion": "MI",
+	"value": 187,
+	"key": "MI vs RR"
+}, {
+	"region": 8,
+	"subregion": "RR",
+	"value": 179,
+	"key": "RR vs MI"
+}, {
+	"region": 8,
+	"subregion": "KKR",
+	"value": 111,
+	"key": "KKR vs RCB"
+}, {
+	"region": 8,
+	"subregion": "RCB",
+	"value": 115,
+	"key": "RCB vs KKR"
+}, {
+	"region": 8,
+	"subregion": "SRH",
+	"value": 192,
+	"key": "SRH vs CSK"
+}, {
+	"region": 8,
+	"subregion": "CSK",
+	"value": 170,
+	"key": "CSK vs SRH"
+}, {
+	"region": 8,
+	"subregion": "MI",
+	"value": 172,
+	"key": "MI vs KXIP"
+}, {
+	"region": 8,
+	"subregion": "KXIP",
+	"value": 149,
+	"key": "KXIP vs MI"
+}, {
+	"region": 8,
+	"subregion": "RR",
+	"value": 189,
+	"key": "RR vs DD"
+}, {
+	"region": 8,
+	"subregion": "DD",
+	"value": 175,
+	"key": "DD vs RR"
+}, {
+	"region": 8,
+	"subregion": "CSK",
+	"value": 148,
+	"key": "CSK vs RCB"
+}, {
+	"region": 8,
+	"subregion": "RCB",
+	"value": 124,
+	"key": "RCB vs CSK"
+}, {
+	"region": 8,
+	"subregion": "KKR",
+	"value": 167,
+	"key": "KKR vs SRH"
+}, {
+	"region": 8,
+	"subregion": "SRH",
+	"value": 132,
+	"key": "SRH vs KKR"
+}, {
+	"region": 8,
+	"subregion": "DD",
+	"value": 152,
+	"key": "DD vs MI"
+}, {
+	"region": 8,
+	"subregion": "MI",
+	"value": 153,
+	"key": "MI vs DD"
+}, {
+	"region": 8,
+	"subregion": "RCB",
+	"value": 226,
+	"key": "RCB vs KXIP"
+}, {
+	"region": 8,
+	"subregion": "KXIP",
+	"value": 88,
+	"key": "KXIP vs RCB"
+}, {
+	"region": 8,
+	"subregion": "SRH",
+	"value": 201,
+	"key": "SRH vs RR"
+}, {
+	"region": 8,
+	"subregion": "RR",
+	"value": 194,
+	"key": "RR vs SRH"
+}, {
+	"region": 8,
+	"subregion": "CSK",
+	"value": 158,
+	"key": "CSK vs MI"
+}, {
+	"region": 8,
+	"subregion": "MI",
+	"value": 159,
+	"key": "MI vs CSK"
+}, {
+	"region": 8,
+	"subregion": "KXIP",
+	"value": 183,
+	"key": "KXIP vs KKR"
+}, {
+	"region": 8,
+	"subregion": "KKR",
+	"value": 184,
+	"key": "KKR vs KXIP"
+}, {
+	"region": 8,
+	"subregion": "SRH",
+	"value": 163,
+	"key": "SRH vs DD"
+}, {
+	"region": 8,
+	"subregion": "DD",
+	"value": 157,
+	"key": "DD vs SRH"
+}, {
+	"region": 8,
+	"subregion": "RCB",
+	"value": 235,
+	"key": "RCB vs MI"
+}, {
+	"region": 8,
+	"subregion": "MI",
+	"value": 196,
+	"key": "MI vs RCB"
+}, {
+	"region": 8,
+	"subregion": "CSK",
+	"value": 157,
+	"key": "CSK vs RR"
+}, {
+	"region": 8,
+	"subregion": "RR",
+	"value": 145,
+	"key": "RR vs CSK"
+}, {
+	"region": 8,
+	"subregion": "SRH",
+	"value": 185,
+	"key": "SRH vs KXIP"
+}, {
+	"region": 8,
+	"subregion": "KXIP",
+	"value": 180,
+	"key": "KXIP vs SRH"
+}, {
+	"region": 8,
+	"subregion": "CSK",
+	"value": 119,
+	"key": "CSK vs DD"
+}, {
+	"region": 8,
+	"subregion": "DD",
+	"value": 120,
+	"key": "DD vs CSK"
+}, {
+	"region": 8,
+	"subregion": "KXIP",
+	"value": 106,
+	"key": "KXIP vs RCB"
+}, {
+	"region": 8,
+	"subregion": "RCB",
+	"value": 84,
+	"key": "RCB vs KXIP"
+}, {
+	"region": 8,
+	"subregion": "MI",
+	"value": 171,
+	"key": "MI vs KKR"
+}, {
+	"region": 8,
+	"subregion": "KKR",
+	"value": 166,
+	"key": "KKR vs MI"
+}, {
+	"region": 8,
+	"subregion": "SRH",
+	"value": 135,
+	"key": "SRH vs RCB"
+}, {
+	"region": 8,
+	"subregion": "RCB",
+	"value": 83,
+	"key": "RCB vs SRH"
+}, {
+	"region": 8,
+	"subregion": "KXIP",
+	"value": 130,
+	"key": "KXIP vs CSK"
+}, {
+	"region": 8,
+	"subregion": "CSK",
+	"value": 134,
+	"key": "CSK vs KXIP"
+}, {
+	"region": 8,
+	"subregion": "RR",
+	"value": 199,
+	"key": "RR vs KKR"
+}, {
+	"region": 8,
+	"subregion": "KKR",
+	"value": 190,
+	"key": "KKR vs RR"
+}, {
+	"region": 8,
+	"subregion": "DD",
+	"value": 187,
+	"key": "DD vs RCB"
+}, {
+	"region": 8,
+	"subregion": "RCB",
+	"value": 2,
+	"key": "RCB vs DD"
+}, {
+	"region": 8,
+	"subregion": "SRH",
+	"value": 113,
+	"key": "SRH vs MI"
+}, {
+	"region": 8,
+	"subregion": "MI",
+	"value": 114,
+	"key": "MI vs SRH"
+}, {
+	"region": 8,
+	"subregion": "MI",
+	"value": 187,
+	"key": "MI vs CSK"
+}, {
+	"region": 8,
+	"subregion": "CSK",
+	"value": 162,
+	"key": "CSK vs MI"
+}, {
+	"region": 8,
+	"subregion": "RCB",
+	"value": 180,
+	"key": "RCB vs RR"
+}, {
+	"region": 8,
+	"subregion": "RR",
+	"value": 109,
+	"key": "RR vs RCB"
+}, {
+	"region": 8,
+	"subregion": "RCB",
+	"value": 139,
+	"key": "RCB vs CSK"
+}, {
+	"region": 8,
+	"subregion": "CSK",
+	"value": 140,
+	"key": "CSK vs RCB"
+}, {
+	"region": 8,
+	"subregion": "MI",
+	"value": 202,
+	"key": "MI vs CSK"
+}, {
+	"region": 8,
+	"subregion": "CSK",
+	"value": 161,
+	"key": "CSK vs MI"
+}, {
+	"region": 9,
+	"subregion": "MI",
+	"value": 121,
+	"key": "MI vs RPS"
+}, {
+	"region": 9,
+	"subregion": "RPS",
+	"value": 126,
+	"key": "RPS vs MI"
+}, {
+	"region": 9,
+	"subregion": "DD",
+	"value": 98,
+	"key": "DD vs KKR"
+}, {
+	"region": 9,
+	"subregion": "KKR",
+	"value": 99,
+	"key": "KKR vs DD"
+}, {
+	"region": 9,
+	"subregion": "KXIP",
+	"value": 161,
+	"key": "KXIP vs GL"
+}, {
+	"region": 9,
+	"subregion": "GL",
+	"value": 162,
+	"key": "GL vs KXIP"
+}, {
+	"region": 9,
+	"subregion": "RCB",
+	"value": 227,
+	"key": "RCB vs SRH"
+}, {
+	"region": 9,
+	"subregion": "SRH",
+	"value": 182,
+	"key": "SRH vs RCB"
+}, {
+	"region": 9,
+	"subregion": "KKR",
+	"value": 187,
+	"key": "KKR vs MI"
+}, {
+	"region": 9,
+	"subregion": "MI",
+	"value": 188,
+	"key": "MI vs KKR"
+}, {
+	"region": 9,
+	"subregion": "RPS",
+	"value": 163,
+	"key": "RPS vs GL"
+}, {
+	"region": 9,
+	"subregion": "GL",
+	"value": 164,
+	"key": "GL vs RPS"
+}, {
+	"region": 9,
+	"subregion": "KXIP",
+	"value": 111,
+	"key": "KXIP vs DD"
+}, {
+	"region": 9,
+	"subregion": "DD",
+	"value": 113,
+	"key": "DD vs KXIP"
+}, {
+	"region": 9,
+	"subregion": "SRH",
+	"value": 142,
+	"key": "SRH vs KKR"
+}, {
+	"region": 9,
+	"subregion": "KKR",
+	"value": 146,
+	"key": "KKR vs SRH"
+}, {
+	"region": 9,
+	"subregion": "MI",
+	"value": 143,
+	"key": "MI vs GL"
+}, {
+	"region": 9,
+	"subregion": "GL",
+	"value": 147,
+	"key": "GL vs MI"
+}, {
+	"region": 9,
+	"subregion": "RPS",
+	"value": 152,
+	"key": "RPS vs KXIP"
+}, {
+	"region": 9,
+	"subregion": "KXIP",
+	"value": 153,
+	"key": "KXIP vs RPS"
+}, {
+	"region": 9,
+	"subregion": "RCB",
+	"value": 191,
+	"key": "RCB vs DD"
+}, {
+	"region": 9,
+	"subregion": "DD",
+	"value": 192,
+	"key": "DD vs RCB"
+}, {
+	"region": 9,
+	"subregion": "MI",
+	"value": 142,
+	"key": "MI vs SRH"
+}, {
+	"region": 9,
+	"subregion": "SRH",
+	"value": 145,
+	"key": "SRH vs MI"
+}, {
+	"region": 9,
+	"subregion": "KXIP",
+	"value": 138,
+	"key": "KXIP vs KKR"
+}, {
+	"region": 9,
+	"subregion": "KKR",
+	"value": 141,
+	"key": "KKR vs KXIP"
+}, {
+	"region": 9,
+	"subregion": "RCB",
+	"value": 170,
+	"key": "RCB vs MI"
+}, {
+	"region": 9,
+	"subregion": "MI",
+	"value": 171,
+	"key": "MI vs RCB"
+}, {
+	"region": 9,
+	"subregion": "GL",
+	"value": 135,
+	"key": "GL vs SRH"
+}, {
+	"region": 9,
+	"subregion": "SRH",
+	"value": 137,
+	"key": "SRH vs GL"
+}, {
+	"region": 9,
+	"subregion": "RCB",
+	"value": 185,
+	"key": "RCB vs RPS"
+}, {
+	"region": 9,
+	"subregion": "RPS",
+	"value": 172,
+	"key": "RPS vs RCB"
+}, {
+	"region": 9,
+	"subregion": "DD",
+	"value": 164,
+	"key": "DD vs MI"
+}, {
+	"region": 9,
+	"subregion": "MI",
+	"value": 154,
+	"key": "MI vs DD"
+}, {
+	"region": 9,
+	"subregion": "KXIP",
+	"value": 143,
+	"key": "KXIP vs SRH"
+}, {
+	"region": 9,
+	"subregion": "SRH",
+	"value": 146,
+	"key": "SRH vs KXIP"
+}, {
+	"region": 9,
+	"subregion": "RCB",
+	"value": 180,
+	"key": "RCB vs GL"
+}, {
+	"region": 9,
+	"subregion": "GL",
+	"value": 182,
+	"key": "GL vs RCB"
+}, {
+	"region": 9,
+	"subregion": "RPS",
+	"value": 160,
+	"key": "RPS vs KKR"
+}, {
+	"region": 9,
+	"subregion": "KKR",
+	"value": 162,
+	"key": "KKR vs RPS"
+}, {
+	"region": 9,
+	"subregion": "MI",
+	"value": 189,
+	"key": "MI vs KXIP"
+}, {
+	"region": 9,
+	"subregion": "KXIP",
+	"value": 164,
+	"key": "KXIP vs MI"
+}, {
+	"region": 9,
+	"subregion": "SRH",
+	"value": 118,
+	"key": "SRH vs RPS"
+}, {
+	"region": 9,
+	"subregion": "RPS",
+	"value": 94,
+	"key": "RPS vs SRH"
+}, {
+	"region": 9,
+	"subregion": "GL",
+	"value": 172,
+	"key": "GL vs DD"
+}, {
+	"region": 9,
+	"subregion": "DD",
+	"value": 171,
+	"key": "DD vs GL"
+}, {
+	"region": 9,
+	"subregion": "KKR",
+	"value": 174,
+	"key": "KKR vs MI"
+}, {
+	"region": 9,
+	"subregion": "MI",
+	"value": 178,
+	"key": "MI vs KKR"
+}, {
+	"region": 9,
+	"subregion": "RPS",
+	"value": 195,
+	"key": "RPS vs GL"
+}, {
+	"region": 9,
+	"subregion": "GL",
+	"value": 196,
+	"key": "GL vs RPS"
+}, {
+	"region": 9,
+	"subregion": "DD",
+	"value": 186,
+	"key": "DD vs KKR"
+}, {
+	"region": 9,
+	"subregion": "KKR",
+	"value": 159,
+	"key": "KKR vs DD"
+}, {
+	"region": 9,
+	"subregion": "SRH",
+	"value": 194,
+	"key": "SRH vs RCB"
+}, {
+	"region": 9,
+	"subregion": "RCB",
+	"value": 179,
+	"key": "RCB vs SRH"
+}, {
+	"region": 9,
+	"subregion": "KXIP",
+	"value": 154,
+	"key": "KXIP vs GL"
+}, {
+	"region": 9,
+	"subregion": "GL",
+	"value": 131,
+	"key": "GL vs KXIP"
+}, {
+	"region": 9,
+	"subregion": "RPS",
+	"value": 159,
+	"key": "RPS vs MI"
+}, {
+	"region": 9,
+	"subregion": "MI",
+	"value": 161,
+	"key": "MI vs RPS"
+}, {
+	"region": 9,
+	"subregion": "RCB",
+	"value": 185,
+	"key": "RCB vs KKR"
+}, {
+	"region": 9,
+	"subregion": "KKR",
+	"value": 189,
+	"key": "KKR vs RCB"
+}, {
+	"region": 9,
+	"subregion": "GL",
+	"value": 149,
+	"key": "GL vs DD"
+}, {
+	"region": 9,
+	"subregion": "DD",
+	"value": 150,
+	"key": "DD vs GL"
+}, {
+	"region": 9,
+	"subregion": "KKR",
+	"value": 164,
+	"key": "KKR vs KXIP"
+}, {
+	"region": 9,
+	"subregion": "KXIP",
+	"value": 157,
+	"key": "KXIP vs KKR"
+}, {
+	"region": 9,
+	"subregion": "DD",
+	"value": 162,
+	"key": "DD vs RPS"
+}, {
+	"region": 9,
+	"subregion": "RPS",
+	"value": 166,
+	"key": "RPS vs DD"
+}, {
+	"region": 9,
+	"subregion": "GL",
+	"value": 126,
+	"key": "GL vs SRH"
+}, {
+	"region": 9,
+	"subregion": "SRH",
+	"value": 129,
+	"key": "SRH vs GL"
+}, {
+	"region": 9,
+	"subregion": "RPS",
+	"value": 191,
+	"key": "RPS vs RCB"
+}, {
+	"region": 9,
+	"subregion": "RCB",
+	"value": 195,
+	"key": "RCB vs RPS"
+}, {
+	"region": 9,
+	"subregion": "KXIP",
+	"value": 181,
+	"key": "KXIP vs DD"
+}, {
+	"region": 9,
+	"subregion": "DD",
+	"value": 172,
+	"key": "DD vs KXIP"
+}, {
+	"region": 9,
+	"subregion": "SRH",
+	"value": 177,
+	"key": "SRH vs MI"
+}, {
+	"region": 9,
+	"subregion": "MI",
+	"value": 92,
+	"key": "MI vs SRH"
+}, {
+	"region": 9,
+	"subregion": "KKR",
+	"value": 158,
+	"key": "KKR vs GL"
+}, {
+	"region": 9,
+	"subregion": "GL",
+	"value": 164,
+	"key": "GL vs KKR"
+}, {
+	"region": 9,
+	"subregion": "RCB",
+	"value": 175,
+	"key": "RCB vs KXIP"
+}, {
+	"region": 9,
+	"subregion": "KXIP",
+	"value": 174,
+	"key": "KXIP vs RCB"
+}, {
+	"region": 9,
+	"subregion": "SRH",
+	"value": 137,
+	"key": "SRH vs RPS"
+}, {
+	"region": 9,
+	"subregion": "RPS",
+	"value": 133,
+	"key": "RPS vs SRH"
+}, {
+	"region": 9,
+	"subregion": "RCB",
+	"value": 151,
+	"key": "RCB vs MI"
+}, {
+	"region": 9,
+	"subregion": "MI",
+	"value": 153,
+	"key": "MI vs RCB"
+}, {
+	"region": 9,
+	"subregion": "SRH",
+	"value": 146,
+	"key": "SRH vs DD"
+}, {
+	"region": 9,
+	"subregion": "DD",
+	"value": 150,
+	"key": "DD vs SRH"
+}, {
+	"region": 9,
+	"subregion": "MI",
+	"value": 124,
+	"key": "MI vs KXIP"
+}, {
+	"region": 9,
+	"subregion": "KXIP",
+	"value": 127,
+	"key": "KXIP vs MI"
+}, {
+	"region": 9,
+	"subregion": "RCB",
+	"value": 244,
+	"key": "RCB vs GL"
+}, {
+	"region": 9,
+	"subregion": "GL",
+	"value": 104,
+	"key": "GL vs RCB"
+}, {
+	"region": 9,
+	"subregion": "RPS",
+	"value": 103,
+	"key": "RPS vs KKR"
+}, {
+	"region": 9,
+	"subregion": "KKR",
+	"value": 66,
+	"key": "KKR vs RPS"
+}, {
+	"region": 9,
+	"subregion": "KXIP",
+	"value": 179,
+	"key": "KXIP vs SRH"
+}, {
+	"region": 9,
+	"subregion": "SRH",
+	"value": 180,
+	"key": "SRH vs KXIP"
+}, {
+	"region": 9,
+	"subregion": "MI",
+	"value": 206,
+	"key": "MI vs DD"
+}, {
+	"region": 9,
+	"subregion": "DD",
+	"value": 126,
+	"key": "DD vs MI"
+}, {
+	"region": 9,
+	"subregion": "KKR",
+	"value": 183,
+	"key": "KKR vs RCB"
+}, {
+	"region": 9,
+	"subregion": "RCB",
+	"value": 186,
+	"key": "RCB vs KKR"
+}, {
+	"region": 9,
+	"subregion": "DD",
+	"value": 121,
+	"key": "DD vs RPS"
+}, {
+	"region": 9,
+	"subregion": "RPS",
+	"value": 76,
+	"key": "RPS vs DD"
+}, {
+	"region": 9,
+	"subregion": "RCB",
+	"value": 211,
+	"key": "RCB vs KXIP"
+}, {
+	"region": 9,
+	"subregion": "KXIP",
+	"value": 120,
+	"key": "KXIP vs RCB"
+}, {
+	"region": 9,
+	"subregion": "KKR",
+	"value": 124,
+	"key": "KKR vs GL"
+}, {
+	"region": 9,
+	"subregion": "GL",
+	"value": 125,
+	"key": "GL vs KKR"
+}, {
+	"region": 9,
+	"subregion": "SRH",
+	"value": 158,
+	"key": "SRH vs DD"
+}, {
+	"region": 9,
+	"subregion": "DD",
+	"value": 161,
+	"key": "DD vs SRH"
+}, {
+	"region": 9,
+	"subregion": "KXIP",
+	"value": 172,
+	"key": "KXIP vs RPS"
+}, {
+	"region": 9,
+	"subregion": "RPS",
+	"value": 173,
+	"key": "RPS vs KXIP"
+}, {
+	"region": 9,
+	"subregion": "MI",
+	"value": 172,
+	"key": "MI vs GL"
+}, {
+	"region": 9,
+	"subregion": "GL",
+	"value": 173,
+	"key": "GL vs MI"
+}, {
+	"region": 9,
+	"subregion": "KKR",
+	"value": 171,
+	"key": "KKR vs SRH"
+}, {
+	"region": 9,
+	"subregion": "SRH",
+	"value": 149,
+	"key": "SRH vs KKR"
+}, {
+	"region": 9,
+	"subregion": "DD",
+	"value": 138,
+	"key": "DD vs RCB"
+}, {
+	"region": 9,
+	"subregion": "RCB",
+	"value": 139,
+	"key": "RCB vs DD"
+}, {
+	"region": 9,
+	"subregion": "GL",
+	"value": 158,
+	"key": "GL vs RCB"
+}, {
+	"region": 9,
+	"subregion": "RCB",
+	"value": 159,
+	"key": "RCB vs GL"
+}, {
+	"region": 9,
+	"subregion": "SRH",
+	"value": 162,
+	"key": "SRH vs KKR"
+}, {
+	"region": 9,
+	"subregion": "KKR",
+	"value": 140,
+	"key": "KKR vs SRH"
+}, {
+	"region": 9,
+	"subregion": "GL",
+	"value": 162,
+	"key": "GL vs SRH"
+}, {
+	"region": 9,
+	"subregion": "SRH",
+	"value": 163,
+	"key": "SRH vs GL"
+}, {
+	"region": 9,
+	"subregion": "SRH",
+	"value": 208,
+	"key": "SRH vs RCB"
+}, {
+	"region": 9,
+	"subregion": "RCB",
+	"value": 200,
+	"key": "RCB vs SRH"
+}]

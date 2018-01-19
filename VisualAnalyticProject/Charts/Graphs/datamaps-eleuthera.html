@@ -1,0 +1,224 @@
+﻿<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+  div {
+    display: inline-block;
+    vertical-align: top;
+  }
+  div.tabular-debris-data-container {
+    display: none;
+    overflow: auto;
+  }
+  #legend #beach {
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 55px;
+    margin-top: 21px;
+    width: 8px;
+    height: 8px;
+    background: red;
+  }
+  p {
+    margin-right: 1em;
+  }
+  h1 {
+    margin-left: 1em;
+    margin-right: 1em;
+  }
+  #legend_title {
+    margin-bottom: 0;
+  }
+  /*TODO Style the tables*/
+</style>
+<body>
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script src="http://d3js.org/topojson.v1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/datamaps/0.5.8/datamaps.bhs.js"></script>
+  <h1>Distribution of debris on various beaches on Eleuthera, The Bahamas</h1>
+  <div
+    id="legend">
+    <h1 id="legend_title">Legend</h1>
+    <div id="beach"></div>
+    <div>
+      <p>
+        Beach
+      </p>
+    </div>
+  </div>
+  <div
+    id="container1"
+    style="border: solid green; width: 500px; height: 500px;">
+  </div>
+    <!-- Embedded Javascript code -->
+  <script>
+    const beaches = [
+      {
+      	name: 'Airport Beach',
+      	cx: 305,
+      	cy: 160,
+      },
+      {
+      	name: 'Winding Bay',
+      	cx: 370,
+      	cy: 300,
+      },
+      {
+      	name: 'Half Sound',
+      	cx: 370,
+      	cy: 313,
+      },
+      {
+      	name: 'Cotton Bay South',
+        cx: 364,
+        cy: 383,
+      },
+      {
+      	name: 'Sunset Beach',
+      	cx: 265,
+      	cy: 145,
+      },
+      {
+      	name: 'Wemyss Bight Beach',
+      	cx: 323,
+      	cy: 410,
+      },
+      {
+      	name: 'Cotton Bay North',
+        cx: 369,
+        cy: 375,
+      },
+      {
+      	name: 'Sunrise Beach',
+      	cx: 290,
+      	cy: 368,
+      },
+      {
+      	name: 'IS/CEI Boys Dorm Beach',
+      	cx: 283,
+      	cy: 368,
+      },
+      {
+        name: 'Red Bays Beach',
+      	cx: 312,
+      	cy: 402,
+      },
+      {
+        name: 'Fourth Hole Beach',
+      	cx: 287,
+      	cy: 391,
+      },
+      {
+        name: 'Bannerman Town Beach',
+      	cx: 344,
+      	cy: 454,
+      },
+      {
+      	name: 'Northside Beach',
+      	cx: 377,
+      	cy: 335,
+      },
+      {
+      	name: 'Paige Creek',
+      	cx: 297,
+      	cy: 370,
+      },
+      {
+      	name: 'Plum Creek',
+      	cx: 306,
+      	cy: 400,
+      },
+    ]
+      //// Svg Container Element
+    const svgContainerHeight = document.getElementById('container1').style.height;
+    //Read the Debris data from CSV
+    d3.csv('beach-debris-transect.csv', debris_data => {
+      for (beach of beaches) {
+        const currentBeach = debris_data.find(e => e['Beach Name'] === beach.name)
+        currentBeach.cx = beach.cx
+        currentBeach.cy = beach.cy
+      }
+      // Creat the Map Element
+      var map = new Datamap({
+        scope: 'bhs',
+        element: document.getElementById('container1'),
+        setProjection: function(element) {
+          var projection = d3.geo.equirectangular()
+            // (Numerically) Increase left, increase right
+            .center([-75.863371, 24.549127])
+            .scale(27000)
+            .translate([element.offsetWidth, element.offsetHeight]);
+          var path = d3.geo.path()
+            .projection(projection);
+          return {
+            path: path,
+            projection: projection
+          };
+        },
+      });
+      // Update an SVG inside the container element
+      d3.select('#container1 svg')
+          .append('g')
+            .selectAll('circle')
+            .data(debris_data)
+            .enter()
+              .append('circle')
+                .attr('r', 4)
+                .attr('fill', 'red')
+                .attr('cx', d => d.cx)
+                .attr('cy', d => d.cy)
+                .on('click', (d, i) => {
+                  document.querySelectorAll('.tabular-debris-data-container')
+                          .forEach(el => {
+                            el.style.display = 'none';
+                          })
+                  document.getElementsByClassName('tabular-debris-data-container')[i]
+                          .style.display = 'inline-block'
+                })
+                  .append('svg:title')
+                  .text(d => d['Beach Name'])
+
+      const table = d3.select('body')
+                        .selectAll('div.tabular-debris-data-container')
+                        .data(debris_data)
+                        .enter()
+                          .append('div')
+                          .attr('id', d => d['Beach Name'].replace(/\s/g , "-"))
+                          .classed('tabular-debris-data-container', true)
+                          .style('height', svgContainerHeight)
+                            .append('table')
+
+      table.append('caption')
+            .text(d => d['Beach Name'])
+
+      const tableRow = table.append('tbody')
+                            .selectAll('tr')
+                            .data(d => {
+                              const properties = []
+
+                              for (key in d) {
+                                const isValid = key !== 'Beach Name'
+                                              && key !== 'cx'
+                                              && key !== 'cy'
+                                if (isValid) {
+                                  properties.push(
+                                    {
+                                      name: key,
+                                      value: d[key],
+                                    }
+                                  )
+                                }
+                              }
+                              return properties
+                            })
+                            .enter()
+                              .append('tr')
+
+      tableRow.append('th')
+              .text(d => d.name)
+
+      tableRow.append('td')
+              .text(d => d.value)
+
+    })
+  </script>
+</body>

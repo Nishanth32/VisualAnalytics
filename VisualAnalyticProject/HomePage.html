@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Plastic Debris Home Page</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.6/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"></script>
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <style>
+        #sortable {
+            height: 100px;
+        }
+
+            #sortable a {
+                padding: 17px;
+                width: 150px;
+                margin: 10px;
+                text-decoration: none;
+                font-size: 20px;
+                color: white;
+                border-radius: 0 5px 5px 0;
+                background-color: #2196F3;
+            }
+    </style>
+</head>
+<body>
+    <!-- Bootstrap Container fluid Elements -->
+    <div class="container-fluid">
+        <!-- Set the Heading Title Element -->
+        <h3>Debris Tracker</h3>
+        <!-- Define the Panel container -->
+        <div class="panel panel-default">
+            <!-- Define the Panel Heading -->
+            <div class="panel-heading">Charts</div>
+            <div id="sortable" class="panel-body">
+                <!-- Define the Title Links to each chart reference -->
+                <a href="#" id=""><i class="fa fa-area-chart" aria-hidden="true"> Area Chart</i></a>
+                <a href="#" id=""><i class="fa fa-bar-chart" aria-hidden="true"> Bar Chart</i></a>
+                <a href="#" id=""><i class="fa fa-pie-chart" aria-hidden="true"> Pie Chart</i></a>
+                <a href="#" id=""><i class="fa fa-line-chart" aria-hidden="true"></i> LineChart</a>
+
+            </div>
+        </div>
+        <!--Define the Panel-->
+        <div class="panel panel-default">
+            <div class="panel-heading">Visualize</div>
+            <div class="panel-body">
+                <div class="sortable">
+                    <iframe src="Charts/Graphs/GMaps.html" frameborder="0" width="1200" height="600" style="float:right;overflow:hidden"></iframe>
+                    <iframe src="Charts/ContactDashBoard.html" frameborder="0" width="1200" height="600" style="float:right;overflow:hidden"></iframe>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <!--Embedded Javascript element-->
+    <script>
+        $(function () {
+
+            $(".sortable").sortable();
+            // Disable chart selection
+            $(".sortable").disableSelection();
+        });
+    </script>
+</body>
+</html>
