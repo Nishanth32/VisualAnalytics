@@ -1,6 +1,7 @@
 # VisualAnalytics
 A project on Visual Analytics involving Machine learning predictions
 
+Project Website can be accessed through the Prototype built on Azure: http://visualanalytics.azurewebsites.net/Dashboard.html
 
 Our motivation was to help the communities understand the issue of debris and to visualize the work done so far since the inception of the Bahamas plastic movement. We discovered better ways to visualize the project on debris collection and clean up rate around the world, by providing insight through visual analytics and providing a platform that could help make insightful decisions about the predictive cleanup rate along the debris rate to reduce debris in the world.
 
